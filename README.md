@@ -8,7 +8,7 @@ insert a link to the playlist itself:
 https://github.com/digitalpara/World_IPTV/blob/master/index.m3u
 
 then just press the 'Open' button
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/digitalpara/World_IPTV/blob/master/preview.png"><img src="https://github.com/digitalpara/World_IPTV/blob/master/preview.png" alt="VLC Network Panel" style="max-width:100%;"></a></p>
+<img src="https://github.com/digitalpara/World_IPTV/blob/master/preview.png" alt="VLC Network Panel" style="max-width:100%;"></a></p>
 
 Android
 To watch IPTV on your Android device you can use any player with support M3U-playlists and this playlist: 
