@@ -1,5 +1,5 @@
 # Turkey , Germany , Netherland _IPTV
-World iPTV live TV ,Her Dilde IPTV Canli TV,Wereldwijd iPTV live TV,Canli canli izle
+iPTV live TV ,Her Dilde IPTV Canli TV,Wereldwijd iPTV live TV,Canli canli izle
 
 Collection of 1000+ free IPTV channels from Turkey , Germany ,Netherland .
 
