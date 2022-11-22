@@ -1,7 +1,7 @@
 # World_IPTV
 World iPTV live TV ,Her Dilde IPTV Canli TV,Wereldwijd iPTV live TV,Canli canli izle
 
-Collection of 6000+ free IPTV channels from all over the world.
+Collection of 1000+ free IPTV channels from Turkey , Germany ,Netherland .
 
 To open the playlist in VLC player you just need click File - > Open Network... and in the window that opens, 
 insert a link to the playlist itself: 
