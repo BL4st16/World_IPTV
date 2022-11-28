@@ -1,0 +1,44 @@
+#EXTM3U #TURKMENISTAN,  KANALLAR İÇERİR | TV | TV #
+
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Altyn Asyr TV
+https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Asgabat TV
+https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Aşgabat (226p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch006.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Aşgabat (406p) [Not 24/7]
+https://alpha.tv.online.tm/legacyhls/ch006.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Miras
+https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Miras (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch003.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Miras (406p) [Not 24/7]
+https://alpha.tv.online.tm/legacyhls/ch003.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",TM | Türkmenistan TV,Türkmenistan TV
+https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Turkmen Спорт,Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Türkmen Owazy
+https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Türkmen Owazy (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch005.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Türkmen Owazy (406p) [Not 24/7]
+https://alpha.tv.online.tm/legacyhls/ch005.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Türkmenistan (112p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch007.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Türkmenistan (226p) [Not 24/7]
+https://alpha.tv.online.tm/legacyhls/ch007.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Türkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Türkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Türkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Türkmenistan TV
+http://alpha.tv.online.tm/hls/ch007_400/index.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Türkmenistan TV
+https://alpha.tv.online.tm/hls/ch007_400/index.m3u8
+#EXTINF:-1 tvg-country="TM" tvg-logo="https://m.yilmaztv.cc/logo/tm.png" group-title="TURKMENISTAN TV",Yaslyk TV
+https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8

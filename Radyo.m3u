@@ -1,0 +1,2164 @@
+#EXTM3U #RADYO,  KANALLAR İÇERİR | TV | TV #
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------POP RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?pop
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/super-fm.png" group-title="RADYO KANALLARI  | TV",Süper FM | Pop
+https://17703.live.streamtheworld.com/SUPER_FM_SC?type=.mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-akdeniz-95-0.png" group-title="RADYO KANALLARI  | TV",Radyo Akdeniz 95.0  | Pop
+http://95.173.162.188:9310/;?type=mp3
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/beste-fm.png" group-title="RADYO KANALLARI  | TV",Beste FM | Pop
+http://dinle.bestefm.net:9938/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-bizim-fm.png" group-title="RADYO KANALLARI  | TV",Radyo Bizim FM | Pop
+http://radyo.radyobizimfm.com:9212/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-lojik.png" group-title="RADYO KANALLARI  | TV",Radyo Lojik | Pop
+http://94.102.2.199:9710/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-tutkal.png" group-title="RADYO KANALLARI  | TV",RADYO TUTKAL | Pop
+http://kesintisizyayin.com:1656/;?type=mp3stream
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-kulu.png" group-title="RADYO KANALLARI  | TV",Radyo Kulu | Pop
+http://eu2.fastcast4u.com:3940/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ask-yeli-fm.png" group-title="RADYO KANALLARI  | TV",Aşk Yeli FM | Pop
+http://37.187.76.29:8444/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/antalya-akdeniz-fm.png" group-title="RADYO KANALLARI  | TV",Antalya Akdeniz Fm | Pop
+http://95.173.162.188:9310/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bir-fm.png" group-title="RADYO KANALLARI  | TV",Bir FM | Pop
+http://91.250.117.155:8888/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-efes.png" group-title="RADYO KANALLARI  | TV",Radyo Efes  | Pop
+http://harbifm.canliyayinda.com:8330/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/alem-fm.png" group-title="RADYO KANALLARI  | TV",Alem FM | Pop
+http://scturkmedya.radyotvonline.com/stream/80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/abuzer-fm.png" group-title="RADYO KANALLARI  | TV",ABUZER FM | Pop
+http://live.radyotvonline.com:9030/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-metronom.png" group-title="RADYO KANALLARI  | TV",Radyo Metronom | Pop
+http://radyo.performans.net:9360/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/aksaray-fm.png" group-title="RADYO KANALLARI  | TV",Aksaray FM | Pop
+http://yayin.yayindakiler.com:4010/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/aksehir-dogan-fm.jpg" group-title="RADYO KANALLARI  | TV",Akşehir Doğan FM | Pop
+http://yayin.turkhosted.com:6046/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/antalya-art-fm.png" group-title="RADYO KANALLARI  | TV",Antalya Art FM | Pop
+http://yayin.liderhost.net:9338/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/banaz-dost-fm.jpg" group-title="RADYO KANALLARI  | TV",Banaz Dost FM | Pop
+http://159.253.39.180:9968/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-venus.png" group-title="RADYO KANALLARI  | TV",Radyo Venüs | Pop
+http://yayin3.canlitv.com:9020/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/best-fm.png" group-title="RADYO KANALLARI  | TV",Best FM | Pop
+http://46.20.7.126:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bey-fm.png" group-title="RADYO KANALLARI  | TV",Bey FM | Pop
+http://45.32.154.169:9304/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/brt-bayrak-fm.png" group-title="RADYO KANALLARI  | TV",Brt Bayrak FM | Pop
+http://sc.brtk.net:8000/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bursa-olay-fm.png" group-title="RADYO KANALLARI  | TV",Olay FM | Pop
+http://live.olayfm.com.tr/olayfm/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-aktif.png" group-title="RADYO KANALLARI  | TV",Radyo Aktif | Pop
+http://sr1.netmedya.org:9220/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-bu.png" group-title="RADYO KANALLARI  | TV",Radyo Bu | Pop
+http://185.26.144.136:9540/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bursa-radyo-sampiyon.png" group-title="RADYO KANALLARI  | TV",Radyo Şampiyon | Pop
+http://95.173.188.166:9782/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/canakkale-bogaz-fm.png" group-title="RADYO KANALLARI  | TV",Çanakkale Boğaz FM | Pop
+http://yayin1.yayindakiler.com:3086/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/cilek-fm.png" group-title="RADYO KANALLARI  | TV",Çilek FM | Pop
+http://radiocilekfm.com:9393/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/corlu-tempo-fm.png" group-title="RADYO KANALLARI  | TV",Tempo FM | Pop
+http://sr1.netmedya.org:443/tempofm?ver=956274
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dalaman-sahil-fm.png" group-title="RADYO KANALLARI  | TV",Dalaman Sahil FM | Pop
+http://dalamansahilfm.com:5252/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/demokrat-fm.png" group-title="RADYO KANALLARI  | TV",Demokrat FM | Pop
+http://yayin1.yayindakiler.com:3122/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-ses-denizli.jpg" group-title="RADYO KANALLARI  | TV",Radyo Ses Denizli | Pop
+http://95.173.188.166:9300/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-kiz-tarafi.png" group-title="RADYO KANALLARI  | TV",Dijibox Kız Tarafı | Pop
+http://dijibox.radyotvonline.com/stream/299/;?type=mp3stream
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-popbox.png" group-title="RADYO KANALLARI  | TV",Dijibox Popbox | Pop
+http://46.20.7.118:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-show-parti.png" group-title="RADYO KANALLARI  | TV",Dijibox Show Parti | Pop
+http://37.247.100.114/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-mola.png" group-title="RADYO KANALLARI  | TV",Radyo Mola | Pop
+http://yayin1.yayindakiler.com:2018/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/eregli-can-radyo.jpg" group-title="RADYO KANALLARI  | TV",Ereğli Can Radyo | Pop
+http://51.255.7.120:9988/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/erzincan-radyo-tek.png" group-title="RADYO KANALLARI  | TV",Erzincan Radyo Tek | Pop
+http://yayin2.yayindakiler.com:4202/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-time-turk.jpg" group-title="RADYO KANALLARI  | TV",Radyo Time Türk | Pop
+http://yayin.yayindakiler.com:4195/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/eskisehir-mavi-radyo.png" group-title="RADYO KANALLARI  | TV",Eskişehir Mavi Radyo | Pop
+http://yayin1.yayindakiler.com:3140/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/eynesil-mercan-fm.png" group-title="RADYO KANALLARI  | TV",Eynesil Mercan FM | Pop
+http://yayin1.yayindakiler.com:3190/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/fm-23.png" group-title="RADYO KANALLARI  | TV",FM 23 | Pop
+http://radyofm23.canliyayinda.com:8280/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kent-radyo.png" group-title="RADYO KANALLARI  | TV",Kent Radyo | Pop
+http://yayin.yayindakiler.com:4050/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/genc-fm.png" group-title="RADYO KANALLARI  | TV",Genç FM | Pop
+http://yayin1.canliyayin.org:7048/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/horoz-fm.png" group-title="RADYO KANALLARI  | TV",Horoz FM | Pop
+http://159.253.44.100:9005/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/hur-fm.jpg" group-title="RADYO KANALLARI  | TV",Hür FM | Pop
+http://radyo.fikirsahipleri.com:9952/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ilgin-fm.png" group-title="RADYO KANALLARI  | TV",Ilgın FM | Pop
+http://95.173.184.17:9942/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/karabuk-magic-fm.png" group-title="RADYO KANALLARI  | TV",Karabük Magic FM | Pop
+http://yayin1.yayindakiler.com:3032/stream/1/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kardelen-fm.png" group-title="RADYO KANALLARI  | TV",Kardelen FM | Pop
+http://dinle.kardelenfm.com:2000/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kay-radyo.png" group-title="RADYO KANALLARI  | TV",Kay Radyo | Pop
+http://yayin.yayindakiler.com:3054/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-turkiyem.jpg" group-title="RADYO KANALLARI  | TV",Radyo Türkiyem | Pop
+http://yayin.turkiletisim.com.tr:9207/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kesan-fm.png" group-title="RADYO KANALLARI  | TV",Keşan FM | Pop
+http://sunucu.radyodinle.com:2234/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kirklareli-melodi-fm.jpg" group-title="RADYO KANALLARI  | TV",Kırklareli Melodi FM | Pop
+http://yayin2.yayindakiler.com:4164/;?type=mp3.mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/soylu-fm.jpg" group-title="RADYO KANALLARI  | TV",Soylu FM | Pop
+http://yayin2.yayindakiler.com:4034/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kolej-fm.png" group-title="RADYO KANALLARI  | TV",Kolej FM | Pop
+http://yayin2.yayindakiler.com:4130/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kordon-fm.png" group-title="RADYO KANALLARI  | TV",Kordon FM | Pop
+http://allergo.serverroom.us:8147/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kral-pop-radyo.png" group-title="RADYO KANALLARI  | TV",Kral Pop Radyo | Pop
+http://kralpopwmp.radyotvonline.com:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kupe-fm.png" group-title="RADYO KANALLARI  | TV",Küpe FM | Pop
+http://sr1.netmedya.org:9700/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/luleburgaz-fm.png" group-title="RADYO KANALLARI  | TV",Lüleburgaz FM | Pop
+http://yayin.netyayin.net:3439/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mamas-fm-pop.png" group-title="RADYO KANALLARI  | TV",Mamaş Fm Pop | Pop
+http://mamasfm.com:4500/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/manisa-imaj-fm.png" group-title="RADYO KANALLARI  | TV",Manisa İmaj FM | Pop
+http://sunucu.radyodinle.com:9797/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/marmara-fm.png" group-title="RADYO KANALLARI  | TV",Marmara FM | Pop
+http://marmarafm.canliyayinda.com:8008/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mesk-fm.jpg" group-title="RADYO KANALLARI  | TV",Meşk FM | Pop
+http://meskfm.radyolarburada.com:9550/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/metropol-fm-live.png" group-title="RADYO KANALLARI  | TV",Metropol FM Live | Pop
+http://mfm1.webradiostreaming.de:8200/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-tech.jpg" group-title="RADYO KANALLARI  | TV",Radyo Tech | Pop
+http://milbassan.com:8000/radyotech.ogg
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mrt-fm.png" group-title="RADYO KANALLARI  | TV",Mrt FM | Pop
+http://sunucu.radyodinle.com:8355/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-49.jpg" group-title="RADYO KANALLARI  | TV",Radyo 49 | Pop
+http://sunucu.radyodinle.com:8850/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-mega-fm.jpg" group-title="RADYO KANALLARI  | TV",Radyo Mega FM | Pop
+http://87.117.247.212:21321/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-turk-fm.png" group-title="RADYO KANALLARI  | TV",Number 1 Türk FM | Pop
+http://playerservices.streamtheworld.com/api/livestream-redirect/NUMBER1TURK_FMAAC.aac
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-turk-remix.png" group-title="RADYO KANALLARI  | TV",Number 1 Türk Remix | Pop
+http://playerservices.streamtheworld.com/api/livestream-redirect/NUMBER1TURK_FMAAC.aac
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ortaca-fm.png" group-title="RADYO KANALLARI  | TV",Ortaca FM | Pop
+http://live.radyotvonline.com:9100/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/osmancik-fm.jpg" group-title="RADYO KANALLARI  | TV",Osmancık FM | Pop
+http://stream.taksimbilisim.com:8006/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/odemis-radyo-remix.png" group-title="RADYO KANALLARI  | TV",Ödemiş Radyo Remix | Pop
+http://radyoremix.canliyayinda.com:8304/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/pal-fm.png" group-title="RADYO KANALLARI  | TV",Pal FM | Pop
+http://shoutcast.radyogrup.com:1030/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-pop-hit.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Pop Hit | Pop
+http://46.20.3.250/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-10.jpg" group-title="RADYO KANALLARI  | TV",radyo 10 | Pop
+http://yayin.turkhosted.com:6038/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-81.png" group-title="RADYO KANALLARI  | TV",Radyo 81 | Pop
+http://radyo.radyo81.com:3030/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-a.jpg" group-title="RADYO KANALLARI  | TV",Radyo A | Pop
+http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-active.jpg" group-title="RADYO KANALLARI  | TV",Radyo Active | Pop
+http://yayin1.yayindakiler.com:3164/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-beyaz.png" group-title="RADYO KANALLARI  | TV",Radyo Beyaz | Pop
+http://yayin.netradyom.com:8098/RADYOBEYAZ
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-bizimdiyar.jpg" group-title="RADYO KANALLARI  | TV",Radyo Bizimdiyar | Pop
+http://Radyo.RadyoBizimFM.CoM:9212/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-d.png" group-title="RADYO KANALLARI  | TV",Radyo D | Pop
+http://radyo.dogannet.tv/radyod
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-dumlupinar.png" group-title="RADYO KANALLARI  | TV",Radyo Dumlupınar | Pop
+http://95.173.161.131:9856/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-ege.jpg" group-title="RADYO KANALLARI  | TV",Radyo Ege | Pop
+http://stream2.taksimbilisim.com:8010/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-enerji.png" group-title="RADYO KANALLARI  | TV",Radyo Enerji | Pop
+http://yayin1.yayindakiler.com:3166/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-flash.png" group-title="RADYO KANALLARI  | TV",Radyo Flash | Pop
+http://yayin2.yayindakiler.com:4096/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-full.png" group-title="RADYO KANALLARI  | TV",Radyo Full HD | Pop
+http://radyo.yayin.com.tr:8050/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-hiras.jpg" group-title="RADYO KANALLARI  | TV",Radyo Hiraş | Pop
+http://yayin.radyohiras.com:9080/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-imparator.jpg" group-title="RADYO KANALLARI  | TV",Radyo İmparator | Pop
+http://imparator.radyotvyayini.com:3434/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-karamursel.png" group-title="RADYO KANALLARI  | TV",Radyo Karamürsel | Pop
+http://yayin1.yayindakiler.com:3052/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-mega.png" group-title="RADYO KANALLARI  | TV",Radyo Mega | Pop
+http://radyo.yayin.com.tr:4052/stream/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-moda.png" group-title="RADYO KANALLARI  | TV",Radyo moda | Pop
+http://yayin.radyomoda.com.tr/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-net.png" group-title="RADYO KANALLARI  | TV",Radyo Net | Pop
+http://yayin1.yayindakiler.com:3132/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-renk.jpg" group-title="RADYO KANALLARI  | TV",Radyo Renk | Pop
+http://yayin1.yayindakiler.com:3016/renk
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-seyhan.png" group-title="RADYO KANALLARI  | TV",Radyo Seyhan | Pop
+http://yayin2.yayindakiler.com:4000/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-sirin.png" group-title="RADYO KANALLARI  | TV",Radyo Şirin | Pop
+http://live4.radyotvonline.com:9570/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-tatlises.png" group-title="RADYO KANALLARI  | TV",Radyo Tatlıses | Pop
+http://37.247.100.118:80/stream/68/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-trabzon.png" group-title="RADYO KANALLARI  | TV",Radyo Trabzon | Pop
+http://yayin3.canlitv.com:5040/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-tutku.png" group-title="RADYO KANALLARI  | TV",Radyo Tutku | Pop
+http://sunucu.radyodinle.com:4999/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-vatan.jpg" group-title="RADYO KANALLARI  | TV",Radyo Vatan | Pop
+http://95.0.173.195:9002/vatan
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-viva.png" group-title="RADYO KANALLARI  | TV",Radyo Viva | Pop
+http://46.20.3.231:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/raks-fm.png" group-title="RADYO KANALLARI  | TV",Raks FM | Pop
+http://yayin.netyayin.net:2633/;?type=mp3*.nsv
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-romantik-turk.jpg" group-title="RADYO KANALLARI  | TV",Radyo Romantik Türk | Pop
+http://radyo.yayin.com.tr:6042/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/sakarya-radyo-net.png" group-title="RADYO KANALLARI  | TV",Sakarya Radyo Net | Pop
+http://dinle.radyonet.net:9990/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/samsun-radyo-kulup.jpg" group-title="RADYO KANALLARI  | TV",Samsun Radyo Kulüp | Pop
+http://yayin.yayindakiler.com:4086/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/samsun-radyo-tutku.png" group-title="RADYO KANALLARI  | TV",Samsun Radyo Tutku | Pop
+http://yayin2.yayindakiler.com:4038/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/show-radyo.png" group-title="RADYO KANALLARI  | TV",Show Radyo | Pop
+http://46.20.3.229:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/sky-radyo.png" group-title="RADYO KANALLARI  | TV",Sky Radyo | Pop
+http://skyradyo.org:8300/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/soma-fm.png" group-title="RADYO KANALLARI  | TV",Soma FM | Pop
+http://80.93.220.26:1960/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/super-2-fm.png" group-title="RADYO KANALLARI  | TV",Süper 2 FM | Pop
+http://17753.live.streamtheworld.com/SUPER2.mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/taksim-fm-live.png" group-title="RADYO KANALLARI  | TV",Taksim FM Live | Pop
+http://95.211.162.32:8000/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/taksim-fm-pop.png" group-title="RADYO KANALLARI  | TV",Taksim FM Pop | Pop
+http://95.211.162.32:8014/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-can.png" group-title="RADYO KANALLARI  | TV",Radyo Can | Pop
+http://yayin1.yayindakiler.com:3124
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-haber.jpg" group-title="RADYO KANALLARI  | TV",Radyo Haber | Pop
+http://yayin2.yayindakiler.com:4118/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/tekirdag-radyo-seker.png" group-title="RADYO KANALLARI  | TV",Tekirdağ Radyo Şeker | Pop
+http://yayin.turkhosted.com:6052/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/trabzon-kuzey-radyo.png" group-title="RADYO KANALLARI  | TV",Trabzon Kuzey Radyo | Pop
+http://yayin1.yayindakiler.com:3028/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/trd-1.png" group-title="RADYO KANALLARI  | TV",TRD 1 | Pop
+http://stream-02.trd.com.tr:80/trd1.aac
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/trd-1-ekstra.png" group-title="RADYO KANALLARI  | TV",TRD 1 Ekstra | Pop
+http://stream-00.trd.com.tr:80/trd1x.aac
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/trd-2.png" group-title="RADYO KANALLARI  | TV",TRD 2  | Pop
+http://stream-00.trd.com.tr:80/trd2.aac
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/turk-pop.png" group-title="RADYO KANALLARI  | TV",Türk Pop | Pop
+http://radyo.reklamsizradyo.org:9862/stream
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/turkiyem-fm.png" group-title="RADYO KANALLARI  | TV",Türkiyem FM | Pop
+http://turkiyemfm.canliyayinda.com:8032/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/melodi-fm.png" group-title="RADYO KANALLARI  | TV",Melodi FM | Pop
+http://yayin3.canlitv.com:5020/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/urgup-fm.png" group-title="RADYO KANALLARI  | TV",Ürgüp FM | Pop
+http://31.192.215.204:9956/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/yunus-fm.png" group-title="RADYO KANALLARI  | TV",Yunus FM | Pop
+http://95.173.162.184:7350/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/zonguldak-radyo-damla.png" group-title="RADYO KANALLARI  | TV",Zonguldak Radyo Damla | Pop
+http://yayin.rtmp.org:8750/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-tek.png" group-title="RADYO KANALLARI  | TV",Radyo Tek | Pop
+http://94.102.2.199:9974/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/power-turk.png" group-title="RADYO KANALLARI  | TV",Power Türk | Pop
+http://powerturk.listenpowerapp.com/powerturk/mpeg/icecast.audio
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-35.png" group-title="RADYO KANALLARI  | TV",Radyo 35 | Pop
+http://stream01.radyo35.com.tr/radyo35
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/istanbul-fm.png" group-title="RADYO KANALLARI  | TV",istanbul FM | Pop
+http://45.32.154.169:9300/stream/1/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-z.png" group-title="RADYO KANALLARI  | TV",Radyo Z | Pop
+http://sunucu.radyodinle.com:2222/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-klas.png" group-title="RADYO KANALLARI  | TV",Radyo Klas | Pop
+http://stream1.alyasoft.net:9868/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/karma-turk.png" group-title="RADYO KANALLARI  | TV",Karma Türk | Pop
+http://46.20.13.52/;?type=mp3stream/3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/gozde-fm.png" group-title="RADYO KANALLARI  | TV",Gözde FM | Pop
+http://gozdefm.canliyayinda.com:7700/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/soguksu-fm.jpg" group-title="RADYO KANALLARI  | TV",Soğuksu FM | Pop
+http://46.20.13.51:1130/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-ekol.png" group-title="RADYO KANALLARI  | TV",Radyo Ekol | Pop
+http://94.23.144.18:9966/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-pause.png" group-title="RADYO KANALLARI  | TV",Radyo Pause | Pop
+http://live5.radyotvonline.com:8010/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/esas-radyo.png" group-title="RADYO KANALLARI  | TV",Esas Radyo | Pop
+http://yayin.turkhosted.com:6034/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kent-fm.png" group-title="RADYO KANALLARI  | TV",Kent FM | Pop
+http://46.20.7.101/stream/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-firat.png" group-title="RADYO KANALLARI  | TV",Radyo Fırat | Pop
+http://radyofirat.radyotvyayini.com:8920/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/serhat-fm.png" group-title="RADYO KANALLARI  | TV",Serhat FM | Pop
+http://sunucu2.radyolarburada.com:9150/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-moda-samsun.png" group-title="RADYO KANALLARI  | TV",Radyo Moda Samsun | Pop
+http://yayin.radyomoda.com.tr/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-extra.png" group-title="RADYO KANALLARI  | TV",Radyo Extra | Pop
+http://46.105.35.48:9340/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/konya-net-fm.jpg" group-title="RADYO KANALLARI  | TV",Konya Net FM | Pop
+http://yayin2.yayindakiler.com:4032/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/baris-fm-adana.jpg" group-title="RADYO KANALLARI  | TV",Barış FM Adana | Pop
+http://95.173.184.20:9588/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/pal-nostalji.jpg" group-title="RADYO KANALLARI  | TV",Pal Nostalji | Pop
+http://shoutcast.radyogrup.com:1010/;?type=mp3stream
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/biz-fm.jpg" group-title="RADYO KANALLARI  | TV",Biz FM | Pop
+http://bizzfm.radioca.st/stream.mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/nrg-turk.jpg" group-title="RADYO KANALLARI  | TV",NRG Türk | Pop
+http://88.99.254.110/stream/2/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-1881.jpg" group-title="RADYO KANALLARI  | TV",Radyo 1881 | Pop
+http://95.173.188.155:7254/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/uzman-fm.jpg" group-title="RADYO KANALLARI  | TV",Uzman FM | Pop
+http://uzamanfm.hopto.me:9480/;?type=mp3type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-taverna.jpg" group-title="RADYO KANALLARI  | TV",Radyo Taverna | Pop
+http://46.20.13.51:1300/;?type=mp3
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------SLOW RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?slow
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/joy-turk.png" group-title="RADYO KANALLARI  | TV",Joy Türk | Slow
+http://17773.live.streamtheworld.com:80/JOY_TURK_SC
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-izmir-fm.png" group-title="RADYO KANALLARI  | TV",Radyo İzmir FM  | Slow
+http://usa4.fastcast4u.com:5414/mp3stream/;?type=mp3?hash=0.1920135512543366
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/duzce-kent-fm.png" group-title="RADYO KANALLARI  | TV",Düzce Kent FM | Slow
+http://duzcekentfm.canliyayinda.com:8012/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radip-perfect.png" group-title="RADYO KANALLARI  | TV",Radip Perfect  | Slow
+http://radioperfect.radyotiryaki.com:8016/live.mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/adana-kalp-fm.png" group-title="RADYO KANALLARI  | TV",Adana Kalp FM | Slow
+http://46.165.233.174:3042/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/antalya-bizim-fm.png" group-title="RADYO KANALLARI  | TV",Antalya Bizim FM | Slow
+http://www.bizimfmantalya.com:707/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/best-radyo.png" group-title="RADYO KANALLARI  | TV",Best Radyo | Slow
+http://canli.bestradyo.org:8004/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/beysehir-gol-fm.png" group-title="RADYO KANALLARI  | TV",Beyşehir Göl FM | Slow
+http://radyoazelya.radyotvyayini.com:9054/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-halikarnas.png" group-title="RADYO KANALLARI  | TV",Radyo Halikarnas  | Slow
+http://78.186.65.14:9000/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/corum-fm.png" group-title="RADYO KANALLARI  | TV",Çorum FM | Slow
+http://stream.taksimbilisim.com:8028/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/degisim-radyo.png" group-title="RADYO KANALLARI  | TV",Değişim Radyo | Slow
+http://yayin.yayindakiler.com:3120/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-birinci.png" group-title="RADYO KANALLARI  | TV",Radyo Birinci | Slow
+http://46.165.233.174:3036/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kocaeli-radyo-nikomedya.png" group-title="RADYO KANALLARI  | TV",Radyo Nikomedya | Slow
+http://yayin.netyayin.net:2631/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/metropol-fm-slow.png" group-title="RADYO KANALLARI  | TV",Metropol FM Slow | Slow
+http://simplestream.de:8200/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-poyraz.png" group-title="RADYO KANALLARI  | TV",Radyo Poyraz | Slow
+http://79.171.16.21:9950/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-turk-slow.png" group-title="RADYO KANALLARI  | TV",Number 1 Türk Slow | Slow
+https://playerservices.streamtheworld.com/api/livestream-redirect/NUMBER1TURK_SLOWAAC.aac?/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ordu-fm.png" group-title="RADYO KANALLARI  | TV",Ordu FM | Slow
+http://78.129.187.73/stream.mp3?ipport=78.129.187.73_33489
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-pop-slow.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Pop Slow | Slow
+http://37.247.98.8/stream/27/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/genc-kral-fm.png" group-title="RADYO KANALLARI  | TV",Genç Kral FM | Slow
+http://95.173.188.166:9894/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-dert.png" group-title="RADYO KANALLARI  | TV",Radyo Dert | Slow
+http://95.173.188.157:9972/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-slow-time.png" group-title="RADYO KANALLARI  | TV",Radyo Slow Time | Slow
+http://37.247.100.118/stream/69/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/slow-karadeniz-fm.png" group-title="RADYO KANALLARI  | TV",Slow Karadeniz FM | Slow
+http://dinle.slowkaradenizfm.com:9578/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/slowturk-fm.png" group-title="RADYO KANALLARI  | TV",Slowtürk FM | Slow
+https://s1.radyo.fm/radyo/slowturk/icecast.audio
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/taksim-fm-slow.png" group-title="RADYO KANALLARI  | TV",Taksim FM Slow | Slow
+http://95.211.162.32:8002/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-haber.jpg" group-title="RADYO KANALLARI  | TV",Radyo Haber | Slow
+http://yayin2.yayindakiler.com:4118/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/cihan-fm.png" group-title="RADYO KANALLARI  | TV",Cihan FM | Slow
+http://185.207.39.91:9846/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/yon-radyo-anatolia.png" group-title="RADYO KANALLARI  | TV",Yön Radyo Anatolia | Slow
+http://yonradyo.radyolarburada.com:8030/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/yon-radyo-kampus.png" group-title="RADYO KANALLARI  | TV",Yön Radyo Kampüs | Slow
+http://yonradyo.radyolarburada.com:8055/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kalp-fm.png" group-title="RADYO KANALLARI  | TV",Kalp FM | Slow
+http://72.8.128.103:8044/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/jest-fm.png" group-title="RADYO KANALLARI  | TV",Jest FM | Slow
+http://yayin2.canliyayin.org:9910/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/slow-fm.jpg" group-title="RADYO KANALLARI  | TV",Slow Fm | Slow
+http://radyo.slowfm.biz:8090/;?type=mp3
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------ARABESK RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?arabesk
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/gozde-radyo.png" group-title="RADYO KANALLARI  | TV",Gözde Radyo | Arabesk
+http://gozderadyo.kesintisizyayin.com:9894/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/arabesk-fm.png" group-title="RADYO KANALLARI  | TV",Arabesk fm  | Arabesk
+http://dinle.arabeskradyo.biz:7446/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/efsane-radyo.png" group-title="RADYO KANALLARI  | TV",Efsane Radyo | Arabesk
+http://yayin.yayindakiler.com:3018/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/adana-radyo-ender.png" group-title="RADYO KANALLARI  | TV",Adana Radyo Ender | Arabesk
+http://yayin1.yayindakiler.com:3040/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mavi-radyo.png" group-title="RADYO KANALLARI  | TV",Mavi Radyo | Arabesk
+http://sunucu.radyodinle.com:8070/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/afyon-radyo-03.png" group-title="RADYO KANALLARI  | TV",Radyo 03 | Arabesk
+http://sunucu.radyodinle.com:1303/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ak-mega-radyo.png" group-title="RADYO KANALLARI  | TV",Ak Mega Radyo | Arabesk
+http://yayin1.canliyayin.org:7078/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/gul-fm.png" group-title="RADYO KANALLARI  | TV",Gül FM | Arabesk
+http://ample-03.radiojar.com/ggu0fd6qu2wtv?rj-ttl=5&rj-token=AAABZWbMRLzJBhWu5HQIc49aGyoFhGSCOZ7ZvEfqNAGxuh1khArttg/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/arabesk-radyo.png" group-title="RADYO KANALLARI  | TV",Arabesk Radyo | Arabesk
+http://dinle.arabeskradyo.biz:2011/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/arabesk-radyo-biz.png" group-title="RADYO KANALLARI  | TV",Arabesk Radyo Biz | Arabesk
+http://dinle.arabeskradyo.biz:7446/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/arabesk-turkiye.png" group-title="RADYO KANALLARI  | TV",Arabesk Türkiye | Arabesk
+http://159.253.37.137:9814/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/arabeskin-sesi-fm.jpg" group-title="RADYO KANALLARI  | TV",Arabeskin Sesi FM | Arabesk
+http://arabeskinsesi.net:9958/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ask-fm.png" group-title="RADYO KANALLARI  | TV",Aşk FM | Arabesk
+http://yayin.asymedya.com:8020/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/baba-radyo.png" group-title="RADYO KANALLARI  | TV",Baba Radyo | Arabesk
+http://37.247.98.7:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/banaz-dost-fm.jpg" group-title="RADYO KANALLARI  | TV",Banaz Dost FM | Arabesk
+http://159.253.39.180:9968/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/74-bartin-fm.png" group-title="RADYO KANALLARI  | TV",74 Bartın FM | Arabesk
+http://95.173.162.188:9824/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/burdur-fm.png" group-title="RADYO KANALLARI  | TV",Burdur FM | Arabesk
+http://yayin.netyayin.net:4070/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bursa-1001-fm.png" group-title="RADYO KANALLARI  | TV",1001 FM  | Arabesk
+http://sunucu2.radyolarburada.com:3636/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-16.png" group-title="RADYO KANALLARI  | TV",Radyo 16 | Arabesk
+http://kaanhost.com:9630/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bursa-radyo-24.png" group-title="RADYO KANALLARI  | TV",Bursa Radyo 24 | Arabesk
+http://dinle.radyohosting.com:9970/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-gunes.png" group-title="RADYO KANALLARI  | TV",Radyo Güneş | Arabesk
+http://yayin2.canliyayin.org:5024/;?type=mp3stream
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/damar-fm.png" group-title="RADYO KANALLARI  | TV",Damar FM | Arabesk
+http://yayin.damarfm.com:8080/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/damar-kral-fm.png" group-title="RADYO KANALLARI  | TV",Damar Kral FM | Arabesk
+http://37.59.205.232:9358/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/damarturk-fm.png" group-title="RADYO KANALLARI  | TV",Damartürk FM | Arabesk
+http://185.9.37.59:7966/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/denizli-dostlar-fm.png" group-title="RADYO KANALLARI  | TV",Denizli Dostlar FM | Arabesk
+http://95.173.188.166:9848/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-ses-denizli.jpg" group-title="RADYO KANALLARI  | TV",Radyo Ses Denizli | Arabesk
+http://95.173.188.166:9300/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/derya-fm.png" group-title="RADYO KANALLARI  | TV",Derya Fm | Arabesk
+http://yayin.turkhosted.com:6032/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-dem.png" group-title="RADYO KANALLARI  | TV",Dijibox Dem | Arabesk
+http://46.20.7.117:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-2000.png" group-title="RADYO KANALLARI  | TV",Radyo 2000 | Arabesk
+http://stream.taksimbilisim.com:8004/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/erzurum-imaj-fm.png" group-title="RADYO KANALLARI  | TV",Erzurum İmaj FM | Arabesk
+http://sunucu.radyodinle.com:9797/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/biber-fm.jpg" group-title="RADYO KANALLARI  | TV",Biber FM | Arabesk
+http://yayin1.yayindakiler.com:3132/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/eskisehir-tempo-radyo.jpg" group-title="RADYO KANALLARI  | TV",Eskişehir Tempo Radyo | Arabesk
+http://217.195.193.2:9988/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/fistik-fm.png" group-title="RADYO KANALLARI  | TV",Fıstık FM | Arabesk
+http://onlinedinle.com:5555/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/hatay-dost-fm.png" group-title="RADYO KANALLARI  | TV",Hatay Dost FM | Arabesk
+http://yayin.netyayin.net:5151/;?type=mp3stream
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/hayal-fm.png" group-title="RADYO KANALLARI  | TV",Hayal FM | Arabesk
+http://yayin.radyohayalfm.net:8050/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/imbat-fm.png" group-title="RADYO KANALLARI  | TV",İmbat FM | Arabesk
+http://allergo.serverroom.us:8127/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-turkiyem.jpg" group-title="RADYO KANALLARI  | TV",Radyo Türkiyem | Arabesk
+http://yayin.turkiletisim.com.tr:9207/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/tiryaki-fm.png" group-title="RADYO KANALLARI  | TV",Tiryaki FM | Arabesk
+http://yayin.turkhosted.com:6056/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kral-fm.png" group-title="RADYO KANALLARI  | TV",Kral FM | Arabesk
+http://kralwmp.radyotvonline.com:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kralturk-fm.png" group-title="RADYO KANALLARI  | TV",Kraltürk FM | Arabesk
+http://canliradyoyayini.com:3434/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mamas-fm-arabesk.png" group-title="RADYO KANALLARI  | TV",Mamaş FM Arabesk | Arabesk
+http://www.mamasfm.com:3500/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ege-fm.png" group-title="RADYO KANALLARI  | TV",Ege FM | Arabesk
+http://sunucu.radyodinle.com:2024/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/metropol-fm-arabesk.png" group-title="RADYO KANALLARI  | TV",Metropol FM Arabesk | Arabesk
+http://89.163.209.194:8300/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/park-fm.png" group-title="RADYO KANALLARI  | TV",Park FM | Arabesk
+http://yayin.netradyom.com:8050/PARKFM
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-fantazi.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Fantazi | Arabesk
+http://37.247.98.8/stream/19/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-34.png" group-title="RADYO KANALLARI  | TV",Radyo 34 | Arabesk
+http://yayin1.canliyayin.org:7424/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-afet.jpg" group-title="RADYO KANALLARI  | TV",Radyo Afet | Arabesk
+http://yayin.liderhost.net:9394/stream1;
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-arabesk-vadisi.png" group-title="RADYO KANALLARI  | TV",Radyo Arabesk Vadisi | Arabesk
+http://arabeskvadisi.kesintisizyayin.com:9998/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-cetin.jpg" group-title="RADYO KANALLARI  | TV",Radyo Çetin | Arabesk
+http://www.radyocetin.com:9304/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-damar-fm.png" group-title="RADYO KANALLARI  | TV",Radyo damar FM | Arabesk
+http://radyodamarfm.com:8404/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-dem.png" group-title="RADYO KANALLARI  | TV",Radyo Dem | Arabesk
+http://s1.voscast.com:9572/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-derman.jpg" group-title="RADYO KANALLARI  | TV",Radyo Derman | Arabesk
+http://sunucu2.radyolarburada.com:3636/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-fantazi.png" group-title="RADYO KANALLARI  | TV",Radyo Fantazi | Arabesk
+http://radyo.radyofantazi.com:1616/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-imparator.jpg" group-title="RADYO KANALLARI  | TV",Radyo İmparator | Arabesk
+http://imparator.radyotvyayini.com:3434/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-kral.png" group-title="RADYO KANALLARI  | TV",Radyo Kral | Arabesk
+http://kralwmp.radyotvonline.com:80/;?type=mp3stream
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-megasite.jpg" group-title="RADYO KANALLARI  | TV",Radyo Megasite | Arabesk
+http://mega.netradyom.com:7900/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/hasret-fm.png" group-title="RADYO KANALLARI  | TV",Hasret FM | Arabesk
+http://46.165.233.175:4210/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/seydisehir-fm.png" group-title="RADYO KANALLARI  | TV",Seydişehir FM | Arabesk
+http://radyo.yayin.com.tr:5894/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/sinop-ezgi-fm.png" group-title="RADYO KANALLARI  | TV",Ezgi FM | Arabesk
+http://yayin.yayindakiler.com:3044/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/cay-solmaz-fm.png" group-title="RADYO KANALLARI  | TV",Çay Solmaz FM | Arabesk
+http://94.102.4.16:9994/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/star-arti-fm.png" group-title="RADYO KANALLARI  | TV",Star Artı FM | Arabesk
+http://yayin.morkarinca.com:8282/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/taksim-fm-arabesk.png" group-title="RADYO KANALLARI  | TV",Taksim FM Arabesk | Arabesk
+http://95.211.162.32:8008/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-13.png" group-title="RADYO KANALLARI  | TV",Radyo 13 | Arabesk
+http://yayin1.yayindakiler.com:3050/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/vizyonturk-fm.png" group-title="RADYO KANALLARI  | TV",Vizyontürk FM | Arabesk
+http://95.173.161.132:9116/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-deva.jpg" group-title="RADYO KANALLARI  | TV",Radyo Deva | Arabesk
+ http://95.173.188.156:9976/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-38.png" group-title="RADYO KANALLARI  | TV",Radyo 38 | Arabesk
+http://radyo.yayin.com.tr:5910/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/arabesk-fm-biz.png" group-title="RADYO KANALLARI  | TV",Arabesk fm  | Arabesk
+http://yayin.arabeskfm.biz:8042/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/damla-fm.jpg" group-title="RADYO KANALLARI  | TV",Damla FM | Arabesk
+http://yayin.rtmp.org:8750/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-rest.jpg" group-title="RADYO KANALLARI  | TV",Radyo Rest | Arabesk
+http://95.173.161.133:7492/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/arabesk-melodi-fm.jpg" group-title="RADYO KANALLARI  | TV",Arabesk Melodi FM | Arabesk
+http://arabeskmelodi.kesintisizyayin.com:8888/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyom-arabesk.jpg" group-title="RADYO KANALLARI  | TV",Radyom Arabesk | Arabesk
+http://radyomarabesk.kesintisizyayin.com:9968/;?type=mp3
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------DINI RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?dini
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/akra-fm.png" group-title="RADYO KANALLARI  | TV",Akra FM | Dini
+http://cdn2.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/anadolu-radyo.png" group-title="RADYO KANALLARI  | TV",Anadolu Radyo | Dini
+http://yayin3.canlitv.com:8050/;?type=mp3?type=http&nocache=1053
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bayram-fm.png" group-title="RADYO KANALLARI  | TV",Bayram FM | Dini
+http://sunucu.radyodinle.com:3442/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/denizli-bizim-iller-fm.png" group-title="RADYO KANALLARI  | TV",Bizim İller FM | Dini
+http://yayin.yayindakiler.com:4078/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dolunay-fm.png" group-title="RADYO KANALLARI  | TV",Dolunay FM | Dini
+http://yayin1.canliyayin.org:8318/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dost-fm.png" group-title="RADYO KANALLARI  | TV",Dost FM | Dini
+http://yayin.dostfm.com:8920/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/elazig-yagmur-fm.jpg" group-title="RADYO KANALLARI  | TV",Elazığ Yağmur FM | Dini
+http://sonic.medyainternet.com:9634/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/hatay-fm.png" group-title="RADYO KANALLARI  | TV",Hatay FM | Dini
+http://sunucu.radyodinle.com:9900/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/arkadas-fm.png" group-title="RADYO KANALLARI  | TV",Arkadas FM | Dini
+http://yayin.yayindakiler.com:4134/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/karaman-genc-fm.png" group-title="RADYO KANALLARI  | TV",Karaman Genç FM | Dini
+http://yayin1.canliyayin.org:7048/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/konya-fm.png" group-title="RADYO KANALLARI  | TV",Konya FM | Dini
+http://212.175.65.102:8001/live?nocache=16329128
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mesaj-fm.png" group-title="RADYO KANALLARI  | TV",Mesaj FM | Dini
+http://yayin3.canlitv.com:8010/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/moral-fm.png" group-title="RADYO KANALLARI  | TV",Moral Fm | Dini
+http://yayin2.canliyayin.org:8886/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-kuran-meali.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Kur'an Meali | Dini
+http://37.247.98.8/stream/33/?/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-tasavvuf.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Tasavvuf | Dini
+http://37.247.98.8/stream/23/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-asya.png" group-title="RADYO KANALLARI  | TV",Radyo Asya | Dini
+http://yayin1.yayindakiler.com:3016/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-ses.jpg" group-title="RADYO KANALLARI  | TV",Radyo Ses | Dini
+http://yayin.netradyom.com:8098/RADYOSES
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-mega.png" group-title="RADYO KANALLARI  | TV",Radyo Mega | Dini
+http://46.165.233.174:3106/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-hayat.png" group-title="RADYO KANALLARI  | TV",Radyo Hayat | Dini
+http://live4.radyotvonline.com:9450/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/vuslat-fm.png" group-title="RADYO KANALLARI  | TV",Vuslat FM | Dini
+http://yayin1.canliyayin.org:8282/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-mira.png" group-title="RADYO KANALLARI  | TV",Radyo Mira | Dini
+http://176.31.105.44:9982/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-mevlana.png" group-title="RADYO KANALLARI  | TV",Radyo Mevlana | Dini
+http://radyo.radyobayi.com:9786/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ibadet-fm.png" group-title="RADYO KANALLARI  | TV",İbadet FM | Dini
+http://159.253.39.180:9944/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-gul.png" group-title="RADYO KANALLARI  | TV",Radyo Gül | Dini
+http://95.173.161.133:9960/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/sema-fm.jpg" group-title="RADYO KANALLARI  | TV",Sema FM | Dini
+http://yayin.radyohostu.com:9430/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-genclik.jpg" group-title="RADYO KANALLARI  | TV",Radyo Gençlik | Dini
+http://radyogenclik.com:9900/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/berat-fm.jpg" group-title="RADYO KANALLARI  | TV",Berat Fm | Dini
+http://beratfm.radyoberat.com:9796/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/abdest-fm.jpg" group-title="RADYO KANALLARI  | TV",Abdest Fm | Dini
+http://37.59.173.79:9786/;?type=mp3
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------ROCK RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?rock
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-cadillrock.png" group-title="RADYO KANALLARI  | TV",Dijibox Cadillrock | Rock
+http://46.20.7.110:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-rock-zone.png" group-title="RADYO KANALLARI  | TV",Dijibox Rock Zone | Rock
+http://46.20.7.108:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/itu-rock.png" group-title="RADYO KANALLARI  | TV",İTÜ Rock | Rock
+http://160.75.86.29:8088/stream/1/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/metropol-fm-rock.png" group-title="RADYO KANALLARI  | TV",Metropol FM Rock | Rock
+http://mfm1.webradiostreaming.de:8200/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-eksen.png" group-title="RADYO KANALLARI  | TV",Radyo Eksen | Rock
+http://46.20.3.198:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-odtu.png" group-title="RADYO KANALLARI  | TV",Radyo ODTÜ | Rock
+http://stream.radyoodtu.com.tr:8006/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/rock-cafe.png" group-title="RADYO KANALLARI  | TV",Hard Rock Cafe | Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_STATION.mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/rock-fm.png" group-title="RADYO KANALLARI  | TV",Rock FM | Rock
+http://rockfm.rockfm.com.tr:9450/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/taksim-fm-rock.png" group-title="RADYO KANALLARI  | TV",Taksim FM Rock | Rock
+http://95.211.162.32:8010/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/yon-radyo-rock.png" group-title="RADYO KANALLARI  | TV",Yön Radyo Rock | Rock
+http://yonradyo.radyolarburada.com:8060/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/datca-onair.jpg" group-title="RADYO KANALLARI  | TV",Datça OnAir | Rock
+https://onlineradiobox.com/json/tr/datcaonair/play?platform=web
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------YABANCI RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?yabanci
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/metro-fm.png" group-title="RADYO KANALLARI  | TV",Metro FM | Yabancı
+http://17733.live.streamtheworld.com:80/METRO_FM_SC
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/joy-fm.png" group-title="RADYO KANALLARI  | TV",Joy FM | Yabancı
+http://17703.live.streamtheworld.com:80/JOY_FM_SC
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/eko-fm.png" group-title="RADYO KANALLARI  | TV",Eko FM | Yabancı
+http://78.186.65.14:9002/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/brt-bayrak-int.png" group-title="RADYO KANALLARI  | TV",Brt Bayrak Int | Yabancı
+http://sc.brtk.net:8004/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bursa-radyo-s.png" group-title="RADYO KANALLARI  | TV",Radyo S | Yabancı
+http://yayin3.canlitv.com:8110/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kral-world-radio.png" group-title="RADYO KANALLARI  | TV",Kral World Radio | Yabancı
+https://ssldyg.radyotvonline.com/kralworldsmil/smil:kralworlddigital.smil/playlist.m3u8
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-akustukhane.png" group-title="RADYO KANALLARI  | TV",Dijibox Akustikhane | Yabancı
+http://46.20.7.111:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-balkabagi.png" group-title="RADYO KANALLARI  | TV",Dijibox Balkabağı | Yabancı
+http://37.247.100.112:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-latino.png" group-title="RADYO KANALLARI  | TV",Dijibox Latino | Yabancı
+http://37.247.100.116:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-lounge.png" group-title="RADYO KANALLARI  | TV",Dijibox Lounge | Yabancı
+http://dijibox.radyotvonline.com/stream/300/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-nonstop.png" group-title="RADYO KANALLARI  | TV",Dijibox Nonstop | Yabancı
+http://46.20.7.112:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-radyo-5.png" group-title="RADYO KANALLARI  | TV",Dijibox Radyo 5 | Yabancı
+http://31.210.157.99:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-soundtrack.png" group-title="RADYO KANALLARI  | TV",Dijibox Soundtrack | Yabancı
+http://46.20.7.107:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-tramway.png" group-title="RADYO KANALLARI  | TV",Dijibox Tramvay | Yabancı
+http://46.20.7.119:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-vitamin.png" group-title="RADYO KANALLARI  | TV",Dijibox Vitamin | Yabancı
+http://37.247.100.115:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-zen.png" group-title="RADYO KANALLARI  | TV",Dijibox Zen | Yabancı
+http://37.247.100.111:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/electro-radyo.png" group-title="RADYO KANALLARI  | TV",Electro Radyo | Yabancı
+https://stream.electroradio.fm/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-fm.png" group-title="RADYO KANALLARI  | TV",Number 1 FM  | Yabancı
+http://nr1digitalsc.radyotvonline.com/stream/264/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-dance.png" group-title="RADYO KANALLARI  | TV",Number 1 Dance | Yabancı
+http://nr1digitalsc.radyotvonline.com/stream/215/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-heart.png" group-title="RADYO KANALLARI  | TV",Number 1 Heart | Yabancı
+http://nr1digitalsc.radyotvonline.com/stream/218/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-remix.png" group-title="RADYO KANALLARI  | TV",Number 1 Remix | Yabancı
+https://sh-l.mncdn.com:9100/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-slow.png" group-title="RADYO KANALLARI  | TV",Number 1 Slow | Yabancı
+http://nr1digitalsc.radyotvonline.com:80/stream/224/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-a.jpg" group-title="RADYO KANALLARI  | TV",Radyo A | Yabancı
+http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-baskent.png" group-title="RADYO KANALLARI  | TV",Radyo Başkent | Yabancı
+http://212.174.58.161:8000/1042
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-bilkent.png" group-title="RADYO KANALLARI  | TV",Radyo Bilkent | Yabancı
+http://188.166.30.186:8000/;?type=mp3.mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-fenomen.png" group-title="RADYO KANALLARI  | TV",Radyo Fenomen | Yabancı
+https://listen.radyofenomen.com/fenomen/128/icecast.audio
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-line.jpg" group-title="RADYO KANALLARI  | TV",Radyo Line | Yabancı
+http://radioline.fm:8000/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-mydonose.png" group-title="RADYO KANALLARI  | TV",Radyo Mydonose | Yabancı
+http://17773.live.streamtheworld.com/RADIO_MYDONOSE128AAC_SC
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/taksim-fm-arabic.png" group-title="RADYO KANALLARI  | TV",Taksim FM Arabic | Yabancı
+http://95.211.162.32:8006/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-jeton.png" group-title="RADYO KANALLARI  | TV",Radyo Jeton | Yabancı
+http://195.175.227.10:80/RADIO_MYDONOSE_SC
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/roket-fm.png" group-title="RADYO KANALLARI  | TV",Roket Fm | Yabancı
+http://80.radyopop.com/stream/1/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/tourism-fm.png" group-title="RADYO KANALLARI  | TV",Tourism FM | Yabancı
+http://radyo.yayin.com.tr:5990/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-pop.jpg" group-title="RADYO KANALLARI  | TV",Radyo Pop | Yabancı
+http://80.radyopop.com/stream/1/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/virgin-radio.jpg" group-title="RADYO KANALLARI  | TV",Virgin Radio | Yabancı
+http://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIOAAC_SC?dist=onlineradyodinle
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/power-fm.jpg" group-title="RADYO KANALLARI  | TV",Power FM | Yabancı
+http://powerfm.listenpowerapp.com/powerfm/mpeg/icecast.audio
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------RAP RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?rap
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/taksim-fm-rap.png" group-title="RADYO KANALLARI  | TV",Taksim FM Rap | Rap
+http://95.211.162.32:8018/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/turk-rap-fm.png" group-title="RADYO KANALLARI  | TV",Türk Rap FM | Rap
+http://95.173.188.166:9984/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-turk-rap.jpg" group-title="RADYO KANALLARI  | TV",Number 1 Türk Rap | Rap
+http://nr1digitalsc.radyotvonline.com:80/stream/469/
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------HABER-SPOR RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?radhaber
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/a-haber-radyo.png" group-title="RADYO KANALLARI  | TV",A HABER RADYO | Haber-Spor
+http://trkvz-radyo.ercdn.net:8000/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/brt-bayrak-radyo-haber.png" group-title="RADYO KANALLARI  | TV",Brt Bayrak Radyo Haber | Haber-Spor
+http://sc.brtk.net:8008/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/gs-radyo.png" group-title="RADYO KANALLARI  | TV",Gs Radyo | Haber-Spor
+http://10153.live.streamtheworld.com/GS_RADYO.mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/lig-radyo.png" group-title="RADYO KANALLARI  | TV",Lig Radyo | Haber-Spor
+http://46.20.7.99:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ntv-radyo.png" group-title="RADYO KANALLARI  | TV",NTV Radyo | Haber-Spor
+http://46.20.3.207:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ntv-spor-radyo.png" group-title="RADYO KANALLARI  | TV",NTV Spor Radyo | Haber-Spor
+http://46.20.3.210:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-fenerbahce.png" group-title="RADYO KANALLARI  | TV",Radyo Fenerbahçe | Haber-Spor
+http://91.232.174.18:8000/Stream
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-spor.png" group-title="RADYO KANALLARI  | TV",Radyo Spor | Haber-Spor
+http://46.20.7.103:8040/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-trafik.png" group-title="RADYO KANALLARI  | TV",Radyo Trafik | Haber-Spor
+http://46.20.4.2:8000/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-haber.jpg" group-title="RADYO KANALLARI  | TV",Radyo Haber | Haber-Spor
+http://yayin2.yayindakiler.com:4118/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ulke-radyo.png" group-title="RADYO KANALLARI  | TV",Ülke Radyo | Haber-Spor
+http://37.247.98.8/stream/41/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/cnn-turk-radyo.jpg" group-title="RADYO KANALLARI  | TV",CNN Türk Radyo | Haber-Spor
+https://radyo.dogannet.tv/cnnturk
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/trt-radyo-1.jpg" group-title="RADYO KANALLARI  | TV",Trt Radyo 1 | Haber-Spor
+https://trtcanlifm-lh.akamaihd.net/i/RADYO1_1@182345/master.m3u8
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------TSM RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?tsm
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-kordelya.png" group-title="RADYO KANALLARI  | TV",Radyo Kordelya | Tsm
+http://allergo.serverroom.us:8137/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/brt-bayrak-turk-muzigi.png" group-title="RADYO KANALLARI  | TV",Brt Bayrak Türk Müziği | Tsm
+http://sc.brtk.net:8010/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/uludag-fm.png" group-title="RADYO KANALLARI  | TV",Uludağ FM | Tsm
+http://sr1.netmedya.org:9170/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/corum-fm.png" group-title="RADYO KANALLARI  | TV",Çorum FM | Tsm
+http://stream.taksimbilisim.com:8028/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/denizli-net-fm.png" group-title="RADYO KANALLARI  | TV",Net FM | Tsm
+http://yayin.yayindakiler.com:3184/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-fasil.png" group-title="RADYO KANALLARI  | TV",Dijibox Fasıl | Tsm
+http://46.20.7.122:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-kaset.png" group-title="RADYO KANALLARI  | TV",Dijibox Kaset | Tsm
+http://46.20.7.115:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-fistik.png" group-title="RADYO KANALLARI  | TV",Radyo Fıstık | Tsm
+http://yayin1.yayindakiler.com:2036/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/gencturk-radyo.png" group-title="RADYO KANALLARI  | TV",Gençtürk Radyo | Tsm
+http://yayin1.yayindakiler.com:3146/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-han.png" group-title="RADYO KANALLARI  | TV",Radyo Han | Tsm
+http://yayin2.yayindakiler.com:4128/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/makam-fm.png" group-title="RADYO KANALLARI  | TV",Makam FM | Tsm
+https://17733.live.streamtheworld.com/MAKAM_SC?/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mamas-fm-turk-sanat-muzigi.png" group-title="RADYO KANALLARI  | TV",Mamaş Fm Türk Sanat Müziği | Tsm
+http://www.mamasfm.com:5000/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/metropol-fm-alaturka.png" group-title="RADYO KANALLARI  | TV",Metropol FM Alaturka | Tsm
+http://simplebroadcast.de:8200/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/nostalji-turk-fm.png" group-title="RADYO KANALLARI  | TV",Nostalji Türk FM | Tsm
+http://shoutcast.radyogrup.com:1010/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-nostalji.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Nostalji | Tsm
+http://37.247.98.8/;?type=mp3stream/25
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-sanat.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Sanat | Tsm
+http://37.247.98.8/;?type=mp3stream/24
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-alaturka.png" group-title="RADYO KANALLARI  | TV",Radyo Alaturka | Tsm
+http://stream.radyoalaturka.com.tr:9100/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-haber.jpg" group-title="RADYO KANALLARI  | TV",Radyo Haber | Tsm
+http://yayin2.yayindakiler.com:4118/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/trd-3-sanat.png" group-title="RADYO KANALLARI  | TV",TRD 3 Sanat | Tsm
+http://stream-00.trd.com.tr:80/trd3.aac/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/yon-radyo-alaturka.png" group-title="RADYO KANALLARI  | TV",Yön Radyo Alaturka | Tsm
+http://yonradyo.radyolarburada.com:8010/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/pal-doga.jpg" group-title="RADYO KANALLARI  | TV",Pal Doğa FM | Tsm
+http://shoutcast.radyogrup.com:1040/;?type=mp3
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------YÖRESEL RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?yoresel
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mamas-fm.png" group-title="RADYO KANALLARI  | TV",Mamaş FM | Yöresel
+http://www.mamasfm.com:8000/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/turku-radyo.png" group-title="RADYO KANALLARI  | TV",Türkü Radyo | Yöresel
+http://radyo.turkuradyo.net:4591/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/acipayam-gurbetci-fm.png" group-title="RADYO KANALLARI  | TV",Acıpayam Gürbetçi FM | Yöresel
+http://live2.radyotvonline.com:8750/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/akdeniz-fm.png" group-title="RADYO KANALLARI  | TV",AKDENİZ FM | Yöresel
+http://95.173.162.188:9310/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/adana-radyo-dunya.png" group-title="RADYO KANALLARI  | TV",Adana Radyo Dünya | Yöresel
+http://46.165.233.174:3088/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/guney-radyo.png" group-title="RADYO KANALLARI  | TV",Güney Radyo | Yöresel
+http://95.173.162.185:9350/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/adiyaman-radyo-tek.png" group-title="RADYO KANALLARI  | TV",Adıyaman Radyo Tek | Yöresel
+http://yayin1.yayindakiler.com:3102/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/armoni-fm.png" group-title="RADYO KANALLARI  | TV",Armoni FM | Yöresel
+http://sunucu.radyodinle.com:9810/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/aksaray-ar-fm.png" group-title="RADYO KANALLARI  | TV",Aksaray Ar FM | Yöresel
+http://46.165.233.175:4036/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/avrasya-truk.png" group-title="RADYO KANALLARI  | TV",Avrasya Türk | Yöresel
+http://radyoavrasya.radyolarburada.com:1071/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/banaz-dost-fm.jpg" group-title="RADYO KANALLARI  | TV",Banaz Dost FM | Yöresel
+http://159.253.39.180:9968/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bati-radyo.png" group-title="RADYO KANALLARI  | TV",Bati Radyo | Yöresel
+http://live5.radyotvonline.com:8050/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/batman-fm.png" group-title="RADYO KANALLARI  | TV",Batman FM | Yöresel
+http://yayin1.yayindakiler.com:3010/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-en.png" group-title="RADYO KANALLARI  | TV",Radyo En | Yöresel
+http://yayin.bursafm.com.tr:1055/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bursa-karadeniz-fm.png" group-title="RADYO KANALLARI  | TV",Bursa Karadeniz FM | Yöresel
+http://212.83.175.140:1043/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-turk.png" group-title="RADYO KANALLARI  | TV",Radyo Türk | Yöresel
+http://kaanhost.com:9440/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/sancak-fm.png" group-title="RADYO KANALLARI  | TV",Sancak FM | Yöresel
+http://yayin.turkhosted.com:6032/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/can-radyo.png" group-title="RADYO KANALLARI  | TV",Can Radyo | Yöresel
+http://yayin1.yayindakiler.com:3124/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/caglar-fm.png" group-title="RADYO KANALLARI  | TV",Çağlar FM | Yöresel
+http://95.9.6.87:8788/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-ozgur.png" group-title="RADYO KANALLARI  | TV",Radyo Özgür | Yöresel
+http://95.173.188.170:9898/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dem-radyo.png" group-title="RADYO KANALLARI  | TV",Dem Radyo | Yöresel
+http://s1.voscast.com:9572/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/derya-fm.png" group-title="RADYO KANALLARI  | TV",Derya Fm | Yöresel
+http://yayin.turkhosted.com:6032/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-anadolu.png" group-title="RADYO KANALLARI  | TV",Dijibox Anadolu | Yöresel
+http://46.20.7.114:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-hangar.png" group-title="RADYO KANALLARI  | TV",Dijibox Hangar | Yöresel
+http://46.20.7.114:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-munzur.jpg" group-title="RADYO KANALLARI  | TV",Radyo Munzur | Yöresel
+http://198.7.59.28:8146/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/amed-radyo.png" group-title="RADYO KANALLARI  | TV",Amed Radyo | Yöresel
+http://radyo.amedradyotv.net:8000/;?type=mp3*.mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/diyarbakir-can-radyo.jpg" group-title="RADYO KANALLARI  | TV",Diyarbakır Can Radyo | Yöresel
+http://yayin.yayindakiler.com:2028/;?type=mp3*.mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/diyarbakir-dogan-21-fm.png" group-title="RADYO KANALLARI  | TV",DİYARBAKIR DOĞAN 21 FM | Yöresel
+http://yayin1.yayindakiler.com:3024/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/erzincan-radyo-2000.jpg" group-title="RADYO KANALLARI  | TV",Erzincan Radyo 2000 | Yöresel
+https://radyodinle.turkhosted.com/live/radyo-2000-erzincan/icecast.audio?tkn=6ndaWAngxjdccGrkxTD5ug&tms=1567255281
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/biber-fm.jpg" group-title="RADYO KANALLARI  | TV",Biber FM | Yöresel
+http://yayin1.yayindakiler.com:3132/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-kilim.png" group-title="RADYO KANALLARI  | TV",Radyo Kilim | Yöresel
+http://sunucu.radyodinle.com:2727/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-sirinnar.png" group-title="RADYO KANALLARI  | TV",Radyo Şirinnar | Yöresel
+http://yayin.yayindakiler.com:4048/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/gonul-fm.png" group-title="RADYO KANALLARI  | TV",Gönul FM | Yöresel
+http://46.20.4.4:8200/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/hamsi-fm.png" group-title="RADYO KANALLARI  | TV",Hamsi FM | Yöresel
+http://radyo.hamsi.fm:8050/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/hatay-akdeniz-fm.jpg" group-title="RADYO KANALLARI  | TV",Hatay Akdeniz FM | Yöresel
+http://yayin.netyayin.net:7077/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/hayal-fm.png" group-title="RADYO KANALLARI  | TV",Hayal FM | Yöresel
+http://yayin.radyohayalfm.net:8050/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/igdir-fm.png" group-title="RADYO KANALLARI  | TV",Iğdır FM | Yöresel
+http://yayin2.yayindakiler.com:4158/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kandira-bati-fm.png" group-title="RADYO KANALLARI  | TV",Kandıra Batı FM | Yöresel
+http://85.105.200.238:8000/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-turkiyem.jpg" group-title="RADYO KANALLARI  | TV",Radyo Türkiyem | Yöresel
+http://yayin.turkiletisim.com.tr:9207/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/keskin-fm.png" group-title="RADYO KANALLARI  | TV",Keskin FM | Yöresel
+http://yayin1.canliyayin.org:8286/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mamas-fm-siir.png" group-title="RADYO KANALLARI  | TV",Mamaş Fm Şiir | Yöresel
+http://www.mamasfm.com:9984/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mamas-fm-turku-radyosu.png" group-title="RADYO KANALLARI  | TV",Mamaş Fm Türkü Radyosu | Yöresel
+http://www.mamasfm.com:8000/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/medya-fm.png" group-title="RADYO KANALLARI  | TV",Medya FM | Yöresel
+http://46.20.7.100/stream/76/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mersin-fm.png" group-title="RADYO KANALLARI  | TV",Mersin FM | Yöresel
+http://stream.taksimbilisim.com:8038/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/osmaniye-renk-fm.png" group-title="RADYO KANALLARI  | TV",Osmaniye Renk FM | Yöresel
+http://yayin1.yayindakiler.com:3158/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ostim-radyo.png" group-title="RADYO KANALLARI  | TV",Ostim Radyo | Yöresel
+http://yayin.asymedya.com:8079/1;
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-09.png" group-title="RADYO KANALLARI  | TV",Radyo 09 | Yöresel
+http://yayin.radyo09.com:8260/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-turku.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Türkü | Yöresel
+http://37.247.98.8:80/stream/22/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-protest.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Protest | Yöresel
+http://37.247.98.8/stream/20/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-siir.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Şiir | Yöresel
+http://37.247.98.8/stream/32/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-38-kent-fm.png" group-title="RADYO KANALLARI  | TV",Radyo 38 Kent FM | Yöresel
+http://yayin2.yayindakiler.com:4056/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-ahenk.png" group-title="RADYO KANALLARI  | TV",Radyo Ahenk | Yöresel
+http://46.20.13.52/;?type=mp35
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-baskent-adana.jpg" group-title="RADYO KANALLARI  | TV",Radyo Başkent Adana | Yöresel
+http://212.174.58.161:8000/adana
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-doga.png" group-title="RADYO KANALLARI  | TV",Radyo Doğa | Yöresel
+http://shoutcast.radyogrup.com:1040/;?type=mp3audio.mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-ekin.png" group-title="RADYO KANALLARI  | TV",Radyo Ekin | Yöresel
+http://yayin.turkhosted.com:6006/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-hamsi.png" group-title="RADYO KANALLARI  | TV",Radyo Hamsi | Yöresel
+http://radyo.hamsi.fm:8050/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-hazar.png" group-title="RADYO KANALLARI  | TV",Radyo Hazar | Yöresel
+http://radyohazar.canliyayinda.com:8286/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-iz.png" group-title="RADYO KANALLARI  | TV",Radyo İz | Yöresel
+http://radyo.turkuradyo.net:4591/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-kochisar.png" group-title="RADYO KANALLARI  | TV",Radyo Koçhisar | Yöresel
+http://176.31.105.44:9956/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-seymen.png" group-title="RADYO KANALLARI  | TV",Radyo Seymen | Yöresel
+http://seymen.turkhosted.com:9000/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-vatan-turku-kibris.png" group-title="RADYO KANALLARI  | TV",Radyo Vatan Türkü Kıbrıs | Yöresel
+http://95.0.173.195:9000/turku
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/rengin-fm.jpg" group-title="RADYO KANALLARI  | TV",Rengin Fm | Yöresel
+http://yayin3.canlitv.com:7075/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/siirt-fm.png" group-title="RADYO KANALLARI  | TV",Siirt FM | Yöresel
+http://yayin2.yayindakiler.com:4226/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/sivas-fm.png" group-title="RADYO KANALLARI  | TV",Sivas FM | Yöresel
+http://yayin1.canliyayin.org:8180/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-medya.jpg" group-title="RADYO KANALLARI  | TV",Radyo Medya | Yöresel
+http://yayin.yayindakiler.com:4016/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/taksim-fm-oyun-havalari.png" group-title="RADYO KANALLARI  | TV",Taksim FM Oyun Havaları | Yöresel
+http://95.211.162.32:8012/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/tarsus-fm.png" group-title="RADYO KANALLARI  | TV",Tarsus FM | Yöresel
+http://radyo.sevdaruzgari.net:6386/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-haber.jpg" group-title="RADYO KANALLARI  | TV",Radyo Haber | Yöresel
+http://yayin2.yayindakiler.com:4118/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/tekirdag-yildiz-fm.png" group-title="RADYO KANALLARI  | TV",Tekirdağ Yıldız FM | Yöresel
+http://51.77.72.72:5940/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/tokat-ozlem-fm.png" group-title="RADYO KANALLARI  | TV",Tokat Özlem FM | Yöresel
+http://yayin.turkiletisim.com.tr:1080/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/tunceli-baris-fm.png" group-title="RADYO KANALLARI  | TV",Tunceli Barış FM | Yöresel
+http://sunucu.radyodinle.com:8510/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/turku-bar.png" group-title="RADYO KANALLARI  | TV",Türkü Bar | Yöresel
+http://95.0.173.195:9000/turku
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/turku-radyo.png" group-title="RADYO KANALLARI  | TV",Türkü Radyo | Yöresel
+http://radyo.turkuradyo.net:4591/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ulku-fm.png" group-title="RADYO KANALLARI  | TV",Ülkü FM | Yöresel
+http://yayin.yayindakiler.com:4112/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/yon-radyo.png" group-title="RADYO KANALLARI  | TV",Yön Radyo | Yöresel
+http://yonradyo.radyolarburada.com:8020/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/yon-radyo-etnik.png" group-title="RADYO KANALLARI  | TV",Yön Radyo Etnik | Yöresel
+http://yonradyo.radyolarburada.com:8040/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/yon-radyo-turku.png" group-title="RADYO KANALLARI  | TV",Yön Radyo Türkü | Yöresel
+http://yonradyo.radyolarburada.com:8070/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/crt-fm.png" group-title="RADYO KANALLARI  | TV",Crt FM | Yöresel
+http://yayin.canliyayin.org:8232/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/adana-turku-fm.png" group-title="RADYO KANALLARI  | TV",Adana Türkü FM | Yöresel
+http://yayin.liderhost.net:9444/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-guney.png" group-title="RADYO KANALLARI  | TV",Radyo Güney | Yöresel
+http://sunucu2.radyolarburada.com:9920/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/pal-doga.jpg" group-title="RADYO KANALLARI  | TV",Pal Doğa FM | Yöresel
+http://shoutcast.radyogrup.com:1040/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bizim-radyo-kilim.jpg" group-title="RADYO KANALLARI  | TV",Bizim Radyo Kilim | Yöresel
+http://yayin.netyayin.net:2727/1
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-banko.jpg" group-title="RADYO KANALLARI  | TV",Radyo Banko | Yöresel
+http://yayin.netradyom.com:8050/RADYOBANKO
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mezopotamya-radyo.jpg" group-title="RADYO KANALLARI  | TV",Mezopotamya Radyo | Yöresel
+http://37.59.205.232:9404/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/harman-radyo.jpg" group-title="RADYO KANALLARI  | TV",Harman Radyo | Yöresel
+http://159.253.37.137:9888/;?type=mp3
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------JAZZ RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?jazz
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-jazzbar.png" group-title="RADYO KANALLARI  | TV",Dijibox Jazzbar | Jazz
+http://46.20.7.109:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/itu-jazz-blues.png" group-title="RADYO KANALLARI  | TV",İTÜ Jazz Blues | Jazz
+http://160.75.86.29:8082/;?type=mp3
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------KLASIK RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?klasik
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/acs-radyo.png" group-title="RADYO KANALLARI  | TV",AÇS RADYO | Klasik
+http://yayin.netradyom.com:11150/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/brt-bayrak-klasik.png" group-title="RADYO KANALLARI  | TV",Brt Bayrak Klasik | Klasik
+http://sc.brtk.net:8006/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-maestro.png" group-title="RADYO KANALLARI  | TV",Dijibox Maestro | Klasik
+http://46.20.7.121:80/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/itu-klasik.png" group-title="RADYO KANALLARI  | TV",İTÜ Klasik | Klasik
+http://160.75.86.29:8097/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-voyage.png" group-title="RADYO KANALLARI  | TV",Radyo Voyage | Klasik
+http://voyagewmp.radyotvonline.com:80/;?type=mp3
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------KARADENIZ RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?karadeniz
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bursa-karadeniz-fm.png" group-title="RADYO KANALLARI  | TV",Bursa Karadeniz FM | Karadeniz
+http://212.83.175.140:1043/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/hamsi-fm.png" group-title="RADYO KANALLARI  | TV",Hamsi FM | Karadeniz
+http://radyo.hamsi.fm:8050/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kemence-fm.png" group-title="RADYO KANALLARI  | TV",Kemençe FM | Karadeniz
+http://dinle.kemencefm.com:6161/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-bordo-mavi.jpg" group-title="RADYO KANALLARI  | TV",Radyo Bordo Mavi | Karadeniz
+http://yayin1.yayindakiler.com:3190/;?type=mp3&type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-gelisim.jpg" group-title="RADYO KANALLARI  | TV",Radyo Gelişim | Karadeniz
+http://yayin.yayindakiler.com:4008/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/slow-karadeniz-fm.png" group-title="RADYO KANALLARI  | TV",Slow Karadeniz FM | Karadeniz
+http://dinle.slowkaradenizfm.com:9578/;?type=mp3
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------KARIŞIK RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?karisik
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/egitimde-gorme-engelliler-radyosu.jpg" group-title="RADYO KANALLARI  | TV",Eğitimde Görme Engelliler Radyosu | Karışık
+http://95.173.162.188:7294/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/adana-radyo-yildiz.png" group-title="RADYO KANALLARI  | TV",Adana Radyo Yıldız | Karışık
+http://sunucu2.radyolarburada.com:2006/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/adana-super-fm.png" group-title="RADYO KANALLARI  | TV",Adana Süper FM | Karışık
+http://yayin2.yayindakiler.com:4002/stream/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/adiyaman-asr-fm.png" group-title="RADYO KANALLARI  | TV",Adiyaman Asr FM | Karışık
+http://yayin2.yayindakiler.com:4072/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mert-fm.png" group-title="RADYO KANALLARI  | TV",Mert FM | Karışık
+http://yayin2.yayindakiler.com:4004/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/afsin-fm.png" group-title="RADYO KANALLARI  | TV",Afşin FM | Karışık
+http://dinle.afsinradyo.com:4646/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/alternatif-radyo.png" group-title="RADYO KANALLARI  | TV",Alternatif Radyo | Karışık
+http://alternatifradyo.radyotvyayini.com:9150/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ankara-fm.png" group-title="RADYO KANALLARI  | TV",Ankara FM | Karışık
+http://radyo1.websitekirala.com:9994/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kumsal-radyo.png" group-title="RADYO KANALLARI  | TV",Kumsal Radyo | Karışık
+http://199.247.7.204:8020/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ardahan-fm.png" group-title="RADYO KANALLARI  | TV",Ardahan FM | Karışık
+http://95.173.161.131:9788/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/baris-fm.png" group-title="RADYO KANALLARI  | TV",Barış FM | Karışık
+http://95.173.184.20:9588/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/banaz-dost-fm.jpg" group-title="RADYO KANALLARI  | TV",Banaz Dost FM | Karışık
+http://159.253.39.180:9968/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bilecik-fm.png" group-title="RADYO KANALLARI  | TV",Bilecik FM | Karışık
+http://95.173.188.155:9980/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/brt-bayrak-radyosu.png" group-title="RADYO KANALLARI  | TV",Brt Bayrak Radyosu | Karışık
+http://sc.brtk.net:8002/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bursa-deniz-fm.png" group-title="RADYO KANALLARI  | TV",Deniz FM | Karışık
+http://yayin2.yayindakiler.com:4152/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bursa-fm.png" group-title="RADYO KANALLARI  | TV",Bursa FM | Karışık
+http://yayin.bursafm.com.tr:1055/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-simsek.png" group-title="RADYO KANALLARI  | TV",Radyo Şimşek | Karışık
+http://kaanvardar.com:9150/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-venus.png" group-title="RADYO KANALLARI  | TV",Bursa Radyo Venüs | Karışık
+http://yayin3.canlitv.com:9020/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dogus-radyo.png" group-title="RADYO KANALLARI  | TV",Doğuş Radyo | Karışık
+http://yayin.netyayin.net:9833/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/biber-fm.jpg" group-title="RADYO KANALLARI  | TV",Biber FM | Karışık
+http://yayin1.yayindakiler.com:3132/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/eskisehir-es-fm.png" group-title="RADYO KANALLARI  | TV",Eskişehir Es FM | Karışık
+http://yayin2.yayindakiler.com:4024/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/giresun-radyo-deniz.png" group-title="RADYO KANALLARI  | TV",Giresun Radyo Deniz | Karışık
+http://46.165.233.175:4076/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/asya-radyo.png" group-title="RADYO KANALLARI  | TV",Asya Radyo | Karışık
+http://sunucu.radyodinle.com:9850/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/istanbul-un-sesi-radyosu.png" group-title="RADYO KANALLARI  | TV",İstanbul'un Sesi Radyosu | Karışık
+http://shoutcast.gostream.nl:8110/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kanalturk-radyo.png" group-title="RADYO KANALLARI  | TV",Kanaltürk Radyo | Karışık
+http://kanalturkradyo.ercdn.net:443/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kastamonu-canturk-fm.png" group-title="RADYO KANALLARI  | TV",Cantürk FM | Karışık
+http://canturkfm.kesintisizyayin.com:9300/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kastamonu-radyo-37.png" group-title="RADYO KANALLARI  | TV",Kastamonu Radyo 37 | Karışık
+http://yayin1.yayindakiler.com:3192/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-turkiyem.jpg" group-title="RADYO KANALLARI  | TV",Radyo Türkiyem | Karışık
+http://yayin.turkiletisim.com.tr:9207/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kemence-fm.png" group-title="RADYO KANALLARI  | TV",Kemençe FM | Karışık
+http://dinle.kemencefm.com:6161/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kiziltepe-radyo-emek.png" group-title="RADYO KANALLARI  | TV",Kızıltepe Radyo Emek | Karışık
+http://emekradyo.canliyayindinle.com:8585/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kozan-fm.png" group-title="RADYO KANALLARI  | TV",Kozan FM | Karışık
+http://sunucu.radyodinle.com:3401/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kusadasi-radyo-net.png" group-title="RADYO KANALLARI  | TV",Kuşadası Radyo Net | Karışık
+http://91.134.25.37:9336/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/lokum-fm.png" group-title="RADYO KANALLARI  | TV",Lokum FM | Karışık
+http://37.247.98.9:80/stream/493/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ornek-radyo.png" group-title="RADYO KANALLARI  | TV",Örnek Radyo | Karışık
+http://yayin.yayindakiler.com:3006/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-world.png" group-title="RADYO KANALLARI  | TV",Number 1 World | Karışık
+http://nr1digitalsc.radyotvonline.com/stream/227/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ortaca-fm.png" group-title="RADYO KANALLARI  | TV",Ortaca FM | Karışık
+http://live.radyotvonline.com:9100/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-80.png" group-title="RADYO KANALLARI  | TV",Radyo 80 | Karışık
+http://sunucu2.radyolarburada.com:5033/stream
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7.png" group-title="RADYO KANALLARI  | TV",Radyo 7 | Karışık
+http://46.20.3.250/;?type=mp3stream
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-active.jpg" group-title="RADYO KANALLARI  | TV",Radyo Active | Karışık
+http://yayin1.yayindakiler.com:3164/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-duygu.png" group-title="RADYO KANALLARI  | TV",Radyo Duygu | Karışık
+http://95.173.162.181:5050/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-ege.jpg" group-title="RADYO KANALLARI  | TV",Radyo Ege | Karışık
+http://stream2.taksimbilisim.com:8010/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-odtu.png" group-title="RADYO KANALLARI  | TV",Radyo ODTÜ | Karışık
+http://stream.radyoodtu.com.tr:8006/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-yakamoz.jpg" group-title="RADYO KANALLARI  | TV",Radyo Yakamoz | Karışık
+http://live4.radyotvonline.com:6570/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/sultan-fm.png" group-title="RADYO KANALLARI  | TV",Sultan FM | Karışık
+http://yayin.turkhosted.com:4949/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/taksim-fm-club-mix.png" group-title="RADYO KANALLARI  | TV",Taksim FM Club Mix | Karışık
+http://95.211.162.32:8016/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-haber.jpg" group-title="RADYO KANALLARI  | TV",Radyo Haber | Karışık
+http://yayin2.yayindakiler.com:4118/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/tgrt-fm.png" group-title="RADYO KANALLARI  | TV",TGRT FM | Karışık
+http://cdn1.streamencoding.com:8000/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/tokat-yore-fm.jpg" group-title="RADYO KANALLARI  | TV",Tokat Yöre FM | Karışık
+http://yayin.yayindakiler.com:4082/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/trabzon-radyo.png" group-title="RADYO KANALLARI  | TV",Trabzon Radyo | Karışık
+http://yayin3.canlitv.com:5040/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/van-fm.png" group-title="RADYO KANALLARI  | TV",Van FM | Karışık
+http://yayin2.yayindakiler.com:4040/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/yon-radyo-world.png" group-title="RADYO KANALLARI  | TV",Yön Radyo World | Karışık
+http://yonradyo.radyolarburada.com:8088/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/zara-fm.png" group-title="RADYO KANALLARI  | TV",Zara FM | Karışık
+http://sunucu.radyodinle.com:8150/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/asr-radyo.png" group-title="RADYO KANALLARI  | TV",Asr Radyo | Karışık
+http://yayin2.yayindakiler.com:4072/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kahta-fm.png" group-title="RADYO KANALLARI  | TV",Kahta FM | Karışık
+http://www.onlinedinle.com:8444/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/onur-fm.png" group-title="RADYO KANALLARI  | TV",Onur FM | Karışık
+http://159.253.45.45:8000/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/aheste-fm.png" group-title="RADYO KANALLARI  | TV",Aheste FM | Karışık
+http://95.173.188.156:9786/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-sevimli.png" group-title="RADYO KANALLARI  | TV",Radyo Sevimli FM | Karışık
+http://yayin2.canliyayin.org:7887/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-yesil-mavi.png" group-title="RADYO KANALLARI  | TV",Radyo Yeşil Mavi | Karışık
+http://radyoyesilmavi.kesintisizyayin.com:9810/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-donusum.jpg" group-title="RADYO KANALLARI  | TV",Radyo Dönüşüm | Karışık
+http://89.252.129.203:7684/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/trt-fm.png" group-title="RADYO KANALLARI  | TV",TRT FM | Karışık
+http://trtcanlifm-lh.akamaihd.net/i/TRTFM_1@181846/index_96_a-p.m3u8/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-bal-fm.jpg" group-title="RADYO KANALLARI  | TV",Radyo Bal FM | Karışık
+http://balfm.kesintisizyayin.com:9966/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-44.jpg" group-title="RADYO KANALLARI  | TV",Radyo 44 | Karışık
+http://radyo44.canliyayinda.com/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/harman-radyo.jpg" group-title="RADYO KANALLARI  | TV",Harman Radyo | Karışık
+http://159.253.37.137:9888/;?type=mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/zirveturk.jpg" group-title="RADYO KANALLARI  | TV",Zirvetürk | Karışık
+http://zirveturk.xyz:9350/;?type=mp3
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------ADANA RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?adana
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/abdest-fm.jpg" group-title="RADYO KANALLARI  | TV",Abdest Fm | Dini
+http://37.59.173.79:9786/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-guney.png" group-title="RADYO KANALLARI  | TV",Radyo Güney | Yöresel
+http://sunucu2.radyolarburada.com:9920/;?type=mp3??
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/vuslat-fm.png" group-title="RADYO KANALLARI  | TV",Vuslat FM | Dini
+http://yayin1.canliyayin.org:8282/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/adana-turku-fm.png" group-title="RADYO KANALLARI  | TV",Adana Türkü FM | Yöresel
+http://yayin.liderhost.net:9444/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-hayat.png" group-title="RADYO KANALLARI  | TV",Radyo Hayat | Dini
+http://live4.radyotvonline.com:9450/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/crt-fm.png" group-title="RADYO KANALLARI  | TV",Crt FM | Yöresel
+http://yayin.canliyayin.org:8232/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/jest-fm.png" group-title="RADYO KANALLARI  | TV",Jest FM | Slow
+http://yayin2.canliyayin.org:9910/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kalp-fm.png" group-title="RADYO KANALLARI  | TV",Kalp FM | Slow
+http://72.8.128.103:8044/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-seyhan.png" group-title="RADYO KANALLARI  | TV",Radyo Seyhan | Pop
+http://yayin2.yayindakiler.com:4000/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-megasite.jpg" group-title="RADYO KANALLARI  | TV",Radyo Megasite | Arabesk
+http://mega.netradyom.com:7900/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-baskent-adana.jpg" group-title="RADYO KANALLARI  | TV",Radyo Başkent Adana | Yöresel
+http://212.174.58.161:8000/adana
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mesk-fm.jpg" group-title="RADYO KANALLARI  | TV",Meşk FM | Pop
+http://meskfm.radyolarburada.com:9550/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/lokum-fm.png" group-title="RADYO KANALLARI  | TV",Lokum FM | Karışık
+http://37.247.98.9:80/stream/493/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kozan-fm.png" group-title="RADYO KANALLARI  | TV",Kozan FM | Karışık
+http://sunucu.radyodinle.com:3401/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/adana-super-fm.png" group-title="RADYO KANALLARI  | TV",Adana Süper FM | Karışık
+http://yayin2.yayindakiler.com:4002/stream/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/adana-radyo-yildiz.png" group-title="RADYO KANALLARI  | TV",Adana Radyo Yıldız | Karışık
+http://sunucu2.radyolarburada.com:2006/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/adana-radyo-ender.png" group-title="RADYO KANALLARI  | TV",Adana Radyo Ender | Arabesk
+http://yayin1.yayindakiler.com:3040/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/adana-radyo-dunya.png" group-title="RADYO KANALLARI  | TV",Adana Radyo Dünya | Yöresel
+http://46.165.233.174:3088/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/adana-kalp-fm.png" group-title="RADYO KANALLARI  | TV",Adana Kalp FM | Slow
+http://46.165.233.174:3042/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/efsane-radyo.png" group-title="RADYO KANALLARI  | TV",Efsane Radyo | Arabesk
+http://yayin.yayindakiler.com:3018/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------ADIYAMAN RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?adiyaman
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kahta-fm.png" group-title="RADYO KANALLARI  | TV",Kahta FM | Karışık
+http://www.onlinedinle.com:8444/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/asr-radyo.png" group-title="RADYO KANALLARI  | TV",Asr Radyo | Karışık
+http://yayin2.yayindakiler.com:4072/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/adiyaman-radyo-tek.png" group-title="RADYO KANALLARI  | TV",Adıyaman Radyo Tek | Yöresel
+http://yayin1.yayindakiler.com:3102/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mert-fm.png" group-title="RADYO KANALLARI  | TV",Mert FM | Karışık
+http://yayin2.yayindakiler.com:4004/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/guney-radyo.png" group-title="RADYO KANALLARI  | TV",Güney Radyo | Yöresel
+http://95.173.162.185:9350/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/adiyaman-asr-fm.png" group-title="RADYO KANALLARI  | TV",Adiyaman Asr FM | Karışık
+http://yayin2.yayindakiler.com:4072/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------AFYON RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?afyon
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-taverna.jpg" group-title="RADYO KANALLARI  | TV",Radyo Taverna | Pop
+http://46.20.13.51:1300/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/cay-solmaz-fm.png" group-title="RADYO KANALLARI  | TV",Çay Solmaz FM | Arabesk
+http://94.102.4.16:9994/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/afyon-radyo-03.png" group-title="RADYO KANALLARI  | TV",Radyo 03 | Arabesk
+http://sunucu.radyodinle.com:1303/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/armoni-fm.png" group-title="RADYO KANALLARI  | TV",Armoni FM | Yöresel
+http://sunucu.radyodinle.com:9810/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-lojik.png" group-title="RADYO KANALLARI  | TV",Radyo Lojik | Pop
+http://94.102.2.199:9710/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------AĞRI RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?agri
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/onur-fm.png" group-title="RADYO KANALLARI  | TV",Onur FM | Karışık
+http://159.253.45.45:8000/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------AMASYA RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?amasya
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-gul.png" group-title="RADYO KANALLARI  | TV",Radyo Gül | Dini
+http://95.173.161.133:9960/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/gul-fm.png" group-title="RADYO KANALLARI  | TV",Gül FM | Arabesk
+http://ample-03.radiojar.com/ggu0fd6qu2wtv?rj-ttl=5&rj-token=AAABZWbMRLzJBhWu5HQIc49aGyoFhGSCOZ7ZvEfqNAGxuh1khArttg/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------ANKARA RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?ankara
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/harman-radyo.jpg" group-title="RADYO KANALLARI  | TV",Harman Radyo | Karışık
+http://159.253.37.137:9888/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/nrg-turk.jpg" group-title="RADYO KANALLARI  | TV",NRG Türk | Pop
+http://88.99.254.110/stream/2/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-banko.jpg" group-title="RADYO KANALLARI  | TV",Radyo Banko | Yöresel
+http://yayin.netradyom.com:8050/RADYOBANKO
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/trt-radyo-1.jpg" group-title="RADYO KANALLARI  | TV",Trt Radyo 1 | Haber-Spor
+https://trtcanlifm-lh.akamaihd.net/i/RADYO1_1@182345/master.m3u8
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/aheste-fm.png" group-title="RADYO KANALLARI  | TV",Aheste FM | Karışık
+http://95.173.188.156:9786/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-ses.jpg" group-title="RADYO KANALLARI  | TV",Radyo Ses | Dini
+http://yayin.netradyom.com:8098/RADYOSES
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-odtu.png" group-title="RADYO KANALLARI  | TV",Radyo ODTÜ | Karışık
+http://stream.radyoodtu.com.tr:8006/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-kochisar.png" group-title="RADYO KANALLARI  | TV",Radyo Koçhisar | Yöresel
+http://176.31.105.44:9956/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-doga.png" group-title="RADYO KANALLARI  | TV",Radyo Doğa | Yöresel
+http://shoutcast.radyogrup.com:1040/;?type=mp3?audio.mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-bilkent.png" group-title="RADYO KANALLARI  | TV",Radyo Bilkent | Yabancı
+http://188.166.30.186:8000/;?type=mp3?.mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-beyaz.png" group-title="RADYO KANALLARI  | TV",Radyo Beyaz | Pop
+http://yayin.netradyom.com:8098/RADYOBEYAZ
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-baskent.png" group-title="RADYO KANALLARI  | TV",Radyo Başkent | Yabancı
+http://212.174.58.161:8000/1042
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/park-fm.png" group-title="RADYO KANALLARI  | TV",Park FM | Arabesk
+http://yayin.netradyom.com:8050/PARKFM
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ostim-radyo.png" group-title="RADYO KANALLARI  | TV",Ostim Radyo | Yöresel
+http://yayin.asymedya.com:8079/1;
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dost-fm.png" group-title="RADYO KANALLARI  | TV",Dost FM | Dini
+http://yayin.dostfm.com:8920/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-ozgur.png" group-title="RADYO KANALLARI  | TV",Radyo Özgür | Yöresel
+http://95.173.188.170:9898/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/avrasya-truk.png" group-title="RADYO KANALLARI  | TV",Avrasya Türk | Yöresel
+http://radyoavrasya.radyolarburada.com:1071/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ask-fm.png" group-title="RADYO KANALLARI  | TV",Aşk FM | Arabesk
+http://yayin.asymedya.com:8020/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ankara-fm.png" group-title="RADYO KANALLARI  | TV",Ankara FM | Karışık
+http://radyo1.websitekirala.com:9994/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/acs-radyo.png" group-title="RADYO KANALLARI  | TV",AÇS RADYO | Klasik
+http://yayin.netradyom.com:11150/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------ANTALYA RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?antalya
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/arabesk-melodi-fm.jpg" group-title="RADYO KANALLARI  | TV",Arabesk Melodi FM | Arabesk
+http://arabeskmelodi.kesintisizyayin.com:8888/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mrt-fm.png" group-title="RADYO KANALLARI  | TV",Mrt FM | Pop
+http://sunucu.radyodinle.com:8355/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kumsal-radyo.png" group-title="RADYO KANALLARI  | TV",Kumsal Radyo | Karışık
+http://199.247.7.204:8020/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/antalya-bizim-fm.png" group-title="RADYO KANALLARI  | TV",Antalya Bizim FM | Slow
+http://www.bizimfmantalya.com:707/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/antalya-art-fm.png" group-title="RADYO KANALLARI  | TV",Antalya Art FM | Pop
+http://yayin.liderhost.net:9338/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/akdeniz-fm.png" group-title="RADYO KANALLARI  | TV",AKDENİZ FM | Yöresel
+http://95.173.162.188:9310/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/antalya-akdeniz-fm.png" group-title="RADYO KANALLARI  | TV",Antalya Akdeniz Fm | Pop
+http://95.173.162.188:9310/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-akdeniz-95-0.png" group-title="RADYO KANALLARI  | TV",Radyo Akdeniz 95.0  | Pop
+http://95.173.162.188:9310/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------ARTVIN RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?artvin
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo_08_artvin.gif" group-title="RADYO KANALLARI  | TV",Radyo 08  | Karışık Müzik
+http://yayin.netyayin.net:8008/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------AYDIN RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?aydin
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-09.png" group-title="RADYO KANALLARI  | TV",Radyo 09 | Yöresel
+http://yayin.radyo09.com:8260/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-mega-fm.jpg" group-title="RADYO KANALLARI  | TV",Radyo Mega FM | Pop
+http://87.117.247.212:21321/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kusadasi-radyo-net.png" group-title="RADYO KANALLARI  | TV",Kuşadası Radyo Net | Karışık
+http://91.134.25.37:9336/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------BALIKESIR RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?balikesir
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-10.jpg" group-title="RADYO KANALLARI  | TV",radyo 10 | Pop
+http://yayin.turkhosted.com:6038/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-venus.png" group-title="RADYO KANALLARI  | TV",Radyo Venüs | Pop
+http://yayin3.canlitv.com:9020/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------BILECIK RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?bilecik
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bilecik-fm.png" group-title="RADYO KANALLARI  | TV",Bilecik FM | Karışık
+http://95.173.188.155:9980/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------BINGÖL RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?bingol
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/azelya_radyo.gif" group-title="RADYO KANALLARI  | TV",Radyo Azelya | Özgün Müzik
+http://95.173.188.155:9980/;?type=mp3?
+http://yayin.yayindakiler.com:3012/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------BITLIS RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?bitlis
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-13.png" group-title="RADYO KANALLARI  | TV",Radyo 13 | Arabesk
+http://yayin1.yayindakiler.com:3050/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------BOLU RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?bolu
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/canlifm.gif" group-title="RADYO KANALLARI  | TV",Gerede FM 92.3 | Karışık Müzik
+http://yayin.yayindakiler.com:4058/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------BURDUR RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?burdur
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/burdur-fm.png" group-title="RADYO KANALLARI  | TV",Burdur FM | Arabesk
+http://yayin.netyayin.net:4070/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------BURSA RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?bursa
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-extra.png" group-title="RADYO KANALLARI  | TV",Radyo Extra | Pop
+http://46.105.35.48:9340/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-line.jpg" group-title="RADYO KANALLARI  | TV",Radyo Line | Yabancı
+http://radioline.fm:8000/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-fantazi.png" group-title="RADYO KANALLARI  | TV",Radyo Fantazi | Arabesk
+http://radyo.radyofantazi.com:1616/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-poyraz.png" group-title="RADYO KANALLARI  | TV",Radyo Poyraz | Slow
+http://79.171.16.21:9950/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/uludag-fm.png" group-title="RADYO KANALLARI  | TV",Uludağ FM | Tsm
+http://sr1.netmedya.org:9170/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/sancak-fm.png" group-title="RADYO KANALLARI  | TV",Sancak FM | Yöresel
+http://yayin.turkhosted.com:6032/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-venus.png" group-title="RADYO KANALLARI  | TV",Bursa Radyo Venüs | Karışık
+http://yayin3.canlitv.com:9020/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-turk.png" group-title="RADYO KANALLARI  | TV",Radyo Türk | Yöresel
+http://kaanhost.com:9440/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-simsek.png" group-title="RADYO KANALLARI  | TV",Radyo Şimşek | Karışık
+http://kaanvardar.com:9150/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bursa-radyo-sampiyon.png" group-title="RADYO KANALLARI  | TV",Radyo Şampiyon | Pop
+http://95.173.188.166:9782/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bursa-radyo-s.png" group-title="RADYO KANALLARI  | TV",Radyo S | Yabancı
+http://yayin3.canlitv.com:8110/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bursa-karadeniz-fm.png" group-title="RADYO KANALLARI  | TV",Bursa Karadeniz FM | Yöresel
+http://212.83.175.140:1043/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-gunes.png" group-title="RADYO KANALLARI  | TV",Radyo Güneş | Arabesk
+http://yayin2.canliyayin.org:5024/;?type=mp3?stream
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-en.png" group-title="RADYO KANALLARI  | TV",Radyo En | Yöresel
+http://yayin.bursafm.com.tr:1055/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-bu.png" group-title="RADYO KANALLARI  | TV",Radyo Bu | Pop
+http://185.26.144.136:9540/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-aktif.png" group-title="RADYO KANALLARI  | TV",Radyo Aktif | Pop
+http://sr1.netmedya.org:9220/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bursa-radyo-24.png" group-title="RADYO KANALLARI  | TV",Bursa Radyo 24 | Arabesk
+http://dinle.radyohosting.com:9970/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-16.png" group-title="RADYO KANALLARI  | TV",Radyo 16 | Arabesk
+http://kaanhost.com:9630/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bursa-olay-fm.png" group-title="RADYO KANALLARI  | TV",Olay FM | Pop
+http://live.olayfm.com.tr/olayfm/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bursa-fm.png" group-title="RADYO KANALLARI  | TV",Bursa FM | Karışık
+http://yayin.bursafm.com.tr:1055/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bursa-deniz-fm.png" group-title="RADYO KANALLARI  | TV",Deniz FM | Karışık
+http://yayin2.yayindakiler.com:4152/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bursa-1001-fm.png" group-title="RADYO KANALLARI  | TV",1001 FM  | Arabesk
+http://sunucu2.radyolarburada.com:3636/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------ÇANAKKALE RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?canakkale
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/genc-fm.png" group-title="RADYO KANALLARI  | TV",Genç FM | Pop
+http://yayin1.canliyayin.org:7048/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/canakkale-bogaz-fm.png" group-title="RADYO KANALLARI  | TV",Çanakkale Boğaz FM | Pop
+http://yayin1.yayindakiler.com:3086/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------ÇANKIRI RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?cankiri
+#EXTINF:-123 tvg-logo="http://www.radyonese.com/wp-content/uploads/2017/09/logos-150x150.png" group-title="RADYO KANALLARI  | TV",Radyo Neşe	99.5 | Karışık Müzik
+http://yayin1.yayindakiler.com:2042/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------ÇORUM RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?corum
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/osmancik-fm.jpg" group-title="RADYO KANALLARI  | TV",Osmancık FM | Pop
+http://stream.taksimbilisim.com:8006/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/corum-fm.png" group-title="RADYO KANALLARI  | TV",Çorum FM | Tsm
+http://stream.taksimbilisim.com:8028/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------DENIZLI RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?denizli
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/horoz-fm.png" group-title="RADYO KANALLARI  | TV",Horoz FM | Pop
+http://159.253.44.100:9005/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-ses-denizli.jpg" group-title="RADYO KANALLARI  | TV",Radyo Ses Denizli | Arabesk
+http://95.173.188.166:9300/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/denizli-net-fm.png" group-title="RADYO KANALLARI  | TV",Net FM | Tsm
+http://yayin.yayindakiler.com:3184/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/denizli-dostlar-fm.png" group-title="RADYO KANALLARI  | TV",Denizli Dostlar FM | Arabesk
+http://95.173.188.166:9848/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dogus-radyo.png" group-title="RADYO KANALLARI  | TV",Doğuş Radyo | Karışık
+http://yayin.netyayin.net:9833/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/denizli-bizim-iller-fm.png" group-title="RADYO KANALLARI  | TV",Bizim İller FM | Dini
+http://yayin.yayindakiler.com:4078/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/acipayam-gurbetci-fm.png" group-title="RADYO KANALLARI  | TV",Acıpayam Gürbetçi FM | Yöresel
+http://live2.radyotvonline.com:8750/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------DIYARBAKIR RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?diyarbakir
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/diyarbakir-dogan-21-fm.png" group-title="RADYO KANALLARI  | TV",DİYARBAKIR DOĞAN 21 FM | Yöresel
+http://yayin1.yayindakiler.com:3024/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/amed-radyo.png" group-title="RADYO KANALLARI  | TV",Amed Radyo | Yöresel
+http://radyo.amedradyotv.net:8000/;?type=mp3?*.mp3
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------EDIRNE RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?edirne
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kesan-fm.png" group-title="RADYO KANALLARI  | TV",Keşan FM | Pop
+http://sunucu.radyodinle.com:2234/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-mola.png" group-title="RADYO KANALLARI  | TV",Radyo Mola | Pop
+http://yayin1.yayindakiler.com:2018/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------ELAZIĞ RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?elazig
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-firat.png" group-title="RADYO KANALLARI  | TV",Radyo Fırat | Pop
+http://radyofirat.radyotvyayini.com:8920/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-hazar.png" group-title="RADYO KANALLARI  | TV",Radyo Hazar | Yöresel
+http://radyohazar.canliyayinda.com:8286/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/fm-23.png" group-title="RADYO KANALLARI  | TV",FM 23 | Pop
+http://radyofm23.canliyayinda.com:8280/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/elazig-yagmur-fm.jpg" group-title="RADYO KANALLARI  | TV",Elazığ Yağmur FM | Dini
+http://sonic.medyainternet.com:9634/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-2000.png" group-title="RADYO KANALLARI  | TV",Radyo 2000 | Arabesk
+http://stream.taksimbilisim.com:8004/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------ERZINCAN RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?erzincan
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-time-turk.jpg" group-title="RADYO KANALLARI  | TV",Radyo Time Türk | Pop
+http://yayin.yayindakiler.com:4195/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/erzincan-radyo-tek.png" group-title="RADYO KANALLARI  | TV",Erzincan Radyo Tek | Pop
+http://yayin2.yayindakiler.com:4202/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------ERZURUM RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?erzurum
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/erzurum-imaj-fm.png" group-title="RADYO KANALLARI  | TV",Erzurum İmaj FM | Arabesk
+http://sunucu.radyodinle.com:9797/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------ESKIŞEHIR RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?eskisehir
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/yunus-fm.png" group-title="RADYO KANALLARI  | TV",Yunus FM | Pop
+http://95.173.162.184:7350/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-net.png" group-title="RADYO KANALLARI  | TV",Radyo Net | Pop
+http://yayin1.yayindakiler.com:3132/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-a.jpg" group-title="RADYO KANALLARI  | TV",Radyo A | Yabancı
+http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/eskisehir-tempo-radyo.jpg" group-title="RADYO KANALLARI  | TV",Eskişehir Tempo Radyo | Arabesk
+http://217.195.193.2:9988/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/eskisehir-mavi-radyo.png" group-title="RADYO KANALLARI  | TV",Eskişehir Mavi Radyo | Pop
+http://yayin1.yayindakiler.com:3140/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/eskisehir-es-fm.png" group-title="RADYO KANALLARI  | TV",Eskişehir Es FM | Karışık
+http://yayin2.yayindakiler.com:4024/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/biber-fm.jpg" group-title="RADYO KANALLARI  | TV",Biber FM | Karışık
+http://yayin1.yayindakiler.com:3132/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------GAZIANTEP RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?gaziantep
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-sirinnar.png" group-title="RADYO KANALLARI  | TV",Radyo Şirinnar | Yöresel
+http://yayin.yayindakiler.com:4048/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-kilim.png" group-title="RADYO KANALLARI  | TV",Radyo Kilim | Yöresel
+http://sunucu.radyodinle.com:2727/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kent-radyo.png" group-title="RADYO KANALLARI  | TV",Kent Radyo | Pop
+http://yayin.yayindakiler.com:4050/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-fistik.png" group-title="RADYO KANALLARI  | TV",Radyo Fıstık | Tsm
+http://yayin1.yayindakiler.com:2036/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------GIRESUN RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?giresun
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-flash.png" group-title="RADYO KANALLARI  | TV",Radyo Flash | Pop
+http://yayin2.yayindakiler.com:4096/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/giresun-radyo-deniz.png" group-title="RADYO KANALLARI  | TV",Giresun Radyo Deniz | Karışık
+http://46.165.233.175:4076/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/eynesil-mercan-fm.png" group-title="RADYO KANALLARI  | TV",Eynesil Mercan FM | Pop
+http://yayin1.yayindakiler.com:3190/;?type=mp3?
+
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------HAKKARI RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?hakkari
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/hakkari_fm.gif" group-title="RADYO KANALLARI  | TV",Hakkari FM	96.6 | Karışık Müzik
+http://167.86.100.31:9302/;?type=mp3?
+
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------HATAY RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?hatay
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-renk.jpg" group-title="RADYO KANALLARI  | TV",Radyo Renk | Pop
+http://yayin1.yayindakiler.com:3016/renk
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/hatay-dost-fm.png" group-title="RADYO KANALLARI  | TV",Hatay Dost FM | Arabesk
+http://yayin.netyayin.net:5151/;?type=mp3?stream
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/hatay-fm.png" group-title="RADYO KANALLARI  | TV",Hatay FM | Dini
+http://sunucu.radyodinle.com:9900/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/asya-radyo.png" group-title="RADYO KANALLARI  | TV",Asya Radyo | Karışık
+http://sunucu.radyodinle.com:9850/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/hatay-akdeniz-fm.jpg" group-title="RADYO KANALLARI  | TV",Hatay Akdeniz FM | Yöresel
+http://yayin.netyayin.net:7077/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------ISPARTA RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?isparta
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/arkadas-fm.png" group-title="RADYO KANALLARI  | TV",Arkadas FM | Dini
+http://yayin.yayindakiler.com:4134/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------İÇEL(MERSIN) RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?icel-mersin
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/berat-fm.jpg" group-title="RADYO KANALLARI  | TV",Berat Fm | Dini
+http://beratfm.radyoberat.com:9796/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/tarsus-fm.png" group-title="RADYO KANALLARI  | TV",Tarsus FM | Yöresel
+http://radyo.sevdaruzgari.net:6386/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-cetin.jpg" group-title="RADYO KANALLARI  | TV",Radyo Çetin | Arabesk
+http://www.radyocetin.com:9304/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mersin-fm.png" group-title="RADYO KANALLARI  | TV",Mersin FM | Yöresel
+http://stream.taksimbilisim.com:8038/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------İSTANBUL RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?istanbul
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/zirveturk.jpg" group-title="RADYO KANALLARI  | TV",Zirvetürk | Karışık
+http://zirveturk.xyz:9350/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/power-fm.jpg" group-title="RADYO KANALLARI  | TV",Power FM | Yabancı
+http://powerfm.listenpowerapp.com/powerfm/mpeg/icecast.audio
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/virgin-radio.jpg" group-title="RADYO KANALLARI  | TV",Virgin Radio | Yabancı
+http://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIOAAC_SC?dist=onlineradyodinle
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-deva.jpg" group-title="RADYO KANALLARI  | TV",Radyo Deva | Arabesk
+ http://95.173.188.156:9976/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/damla-fm.jpg" group-title="RADYO KANALLARI  | TV",Damla FM | Arabesk
+http://yayin.rtmp.org:8750/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/pal-nostalji.jpg" group-title="RADYO KANALLARI  | TV",Pal Nostalji | Pop
+http://shoutcast.radyogrup.com:1010/;?type=mp3?stream
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/baris-fm-adana.jpg" group-title="RADYO KANALLARI  | TV",Barış FM Adana | Pop
+http://95.173.184.20:9588/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-turk-rap.jpg" group-title="RADYO KANALLARI  | TV",Number 1 Türk Rap | Rap
+http://nr1digitalsc.radyotvonline.com:80/stream/469/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/cnn-turk-radyo.jpg" group-title="RADYO KANALLARI  | TV",CNN Türk Radyo | Haber-Spor
+https://radyo.dogannet.tv/cnnturk
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-38.png" group-title="RADYO KANALLARI  | TV",Radyo 38 | Arabesk
+http://radyo.yayin.com.tr:5910/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/roket-fm.png" group-title="RADYO KANALLARI  | TV",Roket Fm | Yabancı
+http://80.radyopop.com/stream/1/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kent-fm.png" group-title="RADYO KANALLARI  | TV",Kent FM | Pop
+http://46.20.7.101/stream/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-jeton.png" group-title="RADYO KANALLARI  | TV",Radyo Jeton | Yabancı
+http://195.175.227.10:80/RADIO_MYDONOSE_SC
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/karma-turk.png" group-title="RADYO KANALLARI  | TV",Karma Türk | Pop
+http://46.20.13.52/;?type=mp3?stream/3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-z.png" group-title="RADYO KANALLARI  | TV",Radyo Z | Pop
+http://sunucu.radyodinle.com:2222/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/istanbul-fm.png" group-title="RADYO KANALLARI  | TV",istanbul FM | Pop
+http://45.32.154.169:9300/stream/1/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/power-turk.png" group-title="RADYO KANALLARI  | TV",Power Türk | Pop
+http://powerturk.listenpowerapp.com/powerturk/mpeg/icecast.audio
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/yon-radyo-world.png" group-title="RADYO KANALLARI  | TV",Yön Radyo World | Karışık
+http://yonradyo.radyolarburada.com:8088/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/yon-radyo-turku.png" group-title="RADYO KANALLARI  | TV",Yön Radyo Türkü | Yöresel
+http://yonradyo.radyolarburada.com:8070/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/yon-radyo-rock.png" group-title="RADYO KANALLARI  | TV",Yön Radyo Rock | Rock
+http://yonradyo.radyolarburada.com:8060/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/yon-radyo-kampus.png" group-title="RADYO KANALLARI  | TV",Yön Radyo Kampüs | Slow
+http://yonradyo.radyolarburada.com:8055/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/yon-radyo-etnik.png" group-title="RADYO KANALLARI  | TV",Yön Radyo Etnik | Yöresel
+http://yonradyo.radyolarburada.com:8040/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/yon-radyo-anatolia.png" group-title="RADYO KANALLARI  | TV",Yön Radyo Anatolia | Slow
+http://yonradyo.radyolarburada.com:8030/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/yon-radyo-alaturka.png" group-title="RADYO KANALLARI  | TV",Yön Radyo Alaturka | Tsm
+http://yonradyo.radyolarburada.com:8010/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/yon-radyo.png" group-title="RADYO KANALLARI  | TV",Yön Radyo | Yöresel
+http://yonradyo.radyolarburada.com:8020/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/vizyonturk-fm.png" group-title="RADYO KANALLARI  | TV",Vizyontürk FM | Arabesk
+http://95.173.161.132:9116/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/tgrt-fm.png" group-title="RADYO KANALLARI  | TV",TGRT FM | Karışık
+http://cdn1.streamencoding.com:8000/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/taksim-fm-slow.png" group-title="RADYO KANALLARI  | TV",Taksim FM Slow | Slow
+http://95.211.162.32:8002/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/taksim-fm-rock.png" group-title="RADYO KANALLARI  | TV",Taksim FM Rock | Rock
+http://95.211.162.32:8010/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/taksim-fm-rap.png" group-title="RADYO KANALLARI  | TV",Taksim FM Rap | Rap
+http://95.211.162.32:8018/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/taksim-fm-pop.png" group-title="RADYO KANALLARI  | TV",Taksim FM Pop | Pop
+http://95.211.162.32:8014/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/taksim-fm-oyun-havalari.png" group-title="RADYO KANALLARI  | TV",Taksim FM Oyun Havaları | Yöresel
+http://95.211.162.32:8012/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/taksim-fm-club-mix.png" group-title="RADYO KANALLARI  | TV",Taksim FM Club Mix | Karışık
+http://95.211.162.32:8016/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/taksim-fm-arabic.png" group-title="RADYO KANALLARI  | TV",Taksim FM Arabic | Yabancı
+http://95.211.162.32:8006/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/taksim-fm-arabesk.png" group-title="RADYO KANALLARI  | TV",Taksim FM Arabesk | Arabesk
+http://95.211.162.32:8008/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/taksim-fm-live.png" group-title="RADYO KANALLARI  | TV",Taksim FM Live | Pop
+http://95.211.162.32:8000/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/super-2-fm.png" group-title="RADYO KANALLARI  | TV",Süper 2 FM | Pop
+http://17753.live.streamtheworld.com/SUPER2.mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/star-arti-fm.png" group-title="RADYO KANALLARI  | TV",Star Artı FM | Arabesk
+http://yayin.morkarinca.com:8282/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/slowturk-fm.png" group-title="RADYO KANALLARI  | TV",Slowtürk FM | Slow
+https://s1.radyo.fm/radyo/slowturk/icecast.audio
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/show-radyo.png" group-title="RADYO KANALLARI  | TV",Show Radyo | Pop
+http://46.20.3.229:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/rock-fm.png" group-title="RADYO KANALLARI  | TV",Rock FM | Rock
+http://rockfm.rockfm.com.tr:9450/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/rock-cafe.png" group-title="RADYO KANALLARI  | TV",Hard Rock Cafe | Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_STATION.mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-voyage.png" group-title="RADYO KANALLARI  | TV",Radyo Voyage | Klasik
+http://voyagewmp.radyotvonline.com:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-viva.png" group-title="RADYO KANALLARI  | TV",Radyo Viva | Pop
+http://46.20.3.231:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-trafik.png" group-title="RADYO KANALLARI  | TV",Radyo Trafik | Haber-Spor
+http://46.20.4.2:8000/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-tatlises.png" group-title="RADYO KANALLARI  | TV",Radyo Tatlıses | Pop
+http://37.247.100.118:80/stream/68/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-spor.png" group-title="RADYO KANALLARI  | TV",Radyo Spor | Haber-Spor
+http://46.20.7.103:8040/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-slow-time.png" group-title="RADYO KANALLARI  | TV",Radyo Slow Time | Slow
+http://37.247.100.118/stream/69/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-seymen.png" group-title="RADYO KANALLARI  | TV",Radyo Seymen | Yöresel
+http://seymen.turkhosted.com:9000/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-mydonose.png" group-title="RADYO KANALLARI  | TV",Radyo Mydonose | Yabancı
+http://17773.live.streamtheworld.com/RADIO_MYDONOSE128AAC_SC
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-moda.png" group-title="RADYO KANALLARI  | TV",Radyo moda | Pop
+http://yayin.radyomoda.com.tr/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-mega.png" group-title="RADYO KANALLARI  | TV",Radyo Mega | Pop
+http://radyo.yayin.com.tr:4052/stream/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-imparator.jpg" group-title="RADYO KANALLARI  | TV",Radyo İmparator | Arabesk
+http://imparator.radyotvyayini.com:3434/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-full.png" group-title="RADYO KANALLARI  | TV",Radyo Full HD | Pop
+http://radyo.yayin.com.tr:8050/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-fenomen.png" group-title="RADYO KANALLARI  | TV",Radyo Fenomen | Yabancı
+https://listen.radyofenomen.com/fenomen/128/icecast.audio
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-fenerbahce.png" group-title="RADYO KANALLARI  | TV",Radyo Fenerbahçe | Haber-Spor
+http://91.232.174.18:8000/Stream
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-eksen.png" group-title="RADYO KANALLARI  | TV",Radyo Eksen | Rock
+http://46.20.3.198:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-ekin.png" group-title="RADYO KANALLARI  | TV",Radyo Ekin | Yöresel
+http://yayin.turkhosted.com:6006/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-d.png" group-title="RADYO KANALLARI  | TV",Radyo D | Pop
+http://radyo.dogannet.tv/radyod
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-asya.png" group-title="RADYO KANALLARI  | TV",Radyo Asya | Dini
+http://yayin1.yayindakiler.com:3016/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-alaturka.png" group-title="RADYO KANALLARI  | TV",Radyo Alaturka | Tsm
+http://stream.radyoalaturka.com.tr:9100/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-ahenk.png" group-title="RADYO KANALLARI  | TV",Radyo Ahenk | Yöresel
+http://46.20.13.52/;?type=mp3?5
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-34.png" group-title="RADYO KANALLARI  | TV",Radyo 34 | Arabesk
+http://yayin1.canliyayin.org:7424/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-siir.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Şiir | Yöresel
+http://37.247.98.8/stream/32/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-protest.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Protest | Yöresel
+http://37.247.98.8/stream/20/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-fantazi.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Fantazi | Arabesk
+http://37.247.98.8/stream/19/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-sanat.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Sanat | Tsm
+http://37.247.98.8/;?type=mp3?stream/24
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-tasavvuf.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Tasavvuf | Dini
+http://37.247.98.8/stream/23/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-turku.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Türkü | Yöresel
+http://37.247.98.8:80/stream/22/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-pop-slow.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Pop Slow | Slow
+http://37.247.98.8/stream/27/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-pop-hit.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Pop Hit | Pop
+http://46.20.3.250/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-nostalji.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Nostalji | Tsm
+http://37.247.98.8/;?type=mp3?stream/25
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7-kuran-meali.png" group-title="RADYO KANALLARI  | TV",Radyo 7 Kur'an Meali | Dini
+http://37.247.98.8/stream/33/?/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-7.png" group-title="RADYO KANALLARI  | TV",Radyo 7 | Karışık
+http://46.20.3.250/;?type=mp3?stream
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/pal-fm.png" group-title="RADYO KANALLARI  | TV",Pal FM | Pop
+http://shoutcast.radyogrup.com:1030/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-world.png" group-title="RADYO KANALLARI  | TV",Number 1 World | Karışık
+http://nr1digitalsc.radyotvonline.com/stream/227/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-turk-slow.png" group-title="RADYO KANALLARI  | TV",Number 1 Türk Slow | Slow
+https://playerservices.streamtheworld.com/api/livestream-redirect/NUMBER1TURK_SLOWAAC.aac?/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-turk-remix.png" group-title="RADYO KANALLARI  | TV",Number 1 Türk Remix | Pop
+http://playerservices.streamtheworld.com/api/livestream-redirect/NUMBER1TURK_FMAAC.aac
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-turk-fm.png" group-title="RADYO KANALLARI  | TV",Number 1 Türk FM | Pop
+http://playerservices.streamtheworld.com/api/livestream-redirect/NUMBER1TURK_FMAAC.aac
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-slow.png" group-title="RADYO KANALLARI  | TV",Number 1 Slow | Yabancı
+http://nr1digitalsc.radyotvonline.com:80/stream/224/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-remix.png" group-title="RADYO KANALLARI  | TV",Number 1 Remix | Yabancı
+https://sh-l.mncdn.com:9100/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-heart.png" group-title="RADYO KANALLARI  | TV",Number 1 Heart | Yabancı
+http://nr1digitalsc.radyotvonline.com/stream/218/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-dance.png" group-title="RADYO KANALLARI  | TV",Number 1 Dance | Yabancı
+http://nr1digitalsc.radyotvonline.com/stream/215/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/number-1-fm.png" group-title="RADYO KANALLARI  | TV",Number 1 FM  | Yabancı
+http://nr1digitalsc.radyotvonline.com/stream/264/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ntv-spor-radyo.png" group-title="RADYO KANALLARI  | TV",NTV Spor Radyo | Haber-Spor
+http://46.20.3.210:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ntv-radyo.png" group-title="RADYO KANALLARI  | TV",NTV Radyo | Haber-Spor
+http://46.20.3.207:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/nostalji-turk-fm.png" group-title="RADYO KANALLARI  | TV",Nostalji Türk FM | Tsm
+http://shoutcast.radyogrup.com:1010/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/moral-fm.png" group-title="RADYO KANALLARI  | TV",Moral Fm | Dini
+http://yayin2.canliyayin.org:8886/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/medya-fm.png" group-title="RADYO KANALLARI  | TV",Medya FM | Yöresel
+http://46.20.7.100/stream/76/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/marmara-fm.png" group-title="RADYO KANALLARI  | TV",Marmara FM | Pop
+http://marmarafm.canliyayinda.com:8008/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/lig-radyo.png" group-title="RADYO KANALLARI  | TV",Lig Radyo | Haber-Spor
+http://46.20.7.99:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kupe-fm.png" group-title="RADYO KANALLARI  | TV",Küpe FM | Pop
+http://sr1.netmedya.org:9700/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kral-pop-radyo.png" group-title="RADYO KANALLARI  | TV",Kral Pop Radyo | Pop
+http://kralpopwmp.radyotvonline.com:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kral-fm.png" group-title="RADYO KANALLARI  | TV",Kral FM | Arabesk
+http://kralwmp.radyotvonline.com:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kanalturk-radyo.png" group-title="RADYO KANALLARI  | TV",Kanaltürk Radyo | Karışık
+http://kanalturkradyo.ercdn.net:443/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/itu-rock.png" group-title="RADYO KANALLARI  | TV",İTÜ Rock | Rock
+http://160.75.86.29:8088/stream/1/
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/itu-klasik.png" group-title="RADYO KANALLARI  | TV",İTÜ Klasik | Klasik
+http://160.75.86.29:8097/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/itu-jazz-blues.png" group-title="RADYO KANALLARI  | TV",İTÜ Jazz Blues | Jazz
+http://160.75.86.29:8082/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/istanbul-un-sesi-radyosu.png" group-title="RADYO KANALLARI  | TV",İstanbul'un Sesi Radyosu | Karışık
+http://shoutcast.gostream.nl:8110/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/gs-radyo.png" group-title="RADYO KANALLARI  | TV",Gs Radyo | Haber-Spor
+http://10153.live.streamtheworld.com/GS_RADYO.mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dolunay-fm.png" group-title="RADYO KANALLARI  | TV",Dolunay FM | Dini
+http://yayin1.canliyayin.org:8318/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-zen.png" group-title="RADYO KANALLARI  | TV",Dijibox Zen | Yabancı
+http://37.247.100.111:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-vitamin.png" group-title="RADYO KANALLARI  | TV",Dijibox Vitamin | Yabancı
+http://37.247.100.115:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-tramway.png" group-title="RADYO KANALLARI  | TV",Dijibox Tramvay | Yabancı
+http://46.20.7.119:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-soundtrack.png" group-title="RADYO KANALLARI  | TV",Dijibox Soundtrack | Yabancı
+http://46.20.7.107:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-show-parti.png" group-title="RADYO KANALLARI  | TV",Dijibox Show Parti | Pop
+http://37.247.100.114/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-rock-zone.png" group-title="RADYO KANALLARI  | TV",Dijibox Rock Zone | Rock
+http://46.20.7.108:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-radyo-5.png" group-title="RADYO KANALLARI  | TV",Dijibox Radyo 5 | Yabancı
+http://31.210.157.99:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-popbox.png" group-title="RADYO KANALLARI  | TV",Dijibox Popbox | Pop
+http://46.20.7.118:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-nonstop.png" group-title="RADYO KANALLARI  | TV",Dijibox Nonstop | Yabancı
+http://46.20.7.112:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-maestro.png" group-title="RADYO KANALLARI  | TV",Dijibox Maestro | Klasik
+http://46.20.7.121:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-lounge.png" group-title="RADYO KANALLARI  | TV",Dijibox Lounge | Yabancı
+http://dijibox.radyotvonline.com/stream/300/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-latino.png" group-title="RADYO KANALLARI  | TV",Dijibox Latino | Yabancı
+http://37.247.100.116:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-kiz-tarafi.png" group-title="RADYO KANALLARI  | TV",Dijibox Kız Tarafı | Pop
+http://dijibox.radyotvonline.com/stream/299/;?type=mp3?stream
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-kaset.png" group-title="RADYO KANALLARI  | TV",Dijibox Kaset | Tsm
+http://46.20.7.115:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-jazzbar.png" group-title="RADYO KANALLARI  | TV",Dijibox Jazzbar | Jazz
+http://46.20.7.109:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-hangar.png" group-title="RADYO KANALLARI  | TV",Dijibox Hangar | Yöresel
+http://46.20.7.114:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-fasil.png" group-title="RADYO KANALLARI  | TV",Dijibox Fasıl | Tsm
+http://46.20.7.122:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-dem.png" group-title="RADYO KANALLARI  | TV",Dijibox Dem | Arabesk
+http://46.20.7.117:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-cadillrock.png" group-title="RADYO KANALLARI  | TV",Dijibox Cadillrock | Rock
+http://46.20.7.110:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-balkabagi.png" group-title="RADYO KANALLARI  | TV",Dijibox Balkabağı | Yabancı
+http://37.247.100.112:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-anadolu.png" group-title="RADYO KANALLARI  | TV",Dijibox Anadolu | Yöresel
+http://46.20.7.114:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dijibox-akustukhane.png" group-title="RADYO KANALLARI  | TV",Dijibox Akustikhane | Yabancı
+http://46.20.7.111:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/damar-kral-fm.png" group-title="RADYO KANALLARI  | TV",Damar Kral FM | Arabesk
+http://37.59.205.232:9358/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kral-world-radio.png" group-title="RADYO KANALLARI  | TV",Kral World Radio | Yabancı
+https://ssldyg.radyotvonline.com/kralworldsmil/smil:kralworlddigital.smil/playlist.m3u8
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/best-fm.png" group-title="RADYO KANALLARI  | TV",Best FM | Pop
+http://46.20.7.126:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bayram-fm.png" group-title="RADYO KANALLARI  | TV",Bayram FM | Dini
+http://sunucu.radyodinle.com:3442/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/baba-radyo.png" group-title="RADYO KANALLARI  | TV",Baba Radyo | Arabesk
+http://37.247.98.7:80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/arabeskin-sesi-fm.jpg" group-title="RADYO KANALLARI  | TV",Arabeskin Sesi FM | Arabesk
+http://arabeskinsesi.net:9958/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/arabesk-turkiye.png" group-title="RADYO KANALLARI  | TV",Arabesk Türkiye | Arabesk
+http://159.253.37.137:9814/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/akra-fm.png" group-title="RADYO KANALLARI  | TV",Akra FM | Dini
+http://cdn2.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/abuzer-fm.png" group-title="RADYO KANALLARI  | TV",ABUZER FM | Pop
+http://live.radyotvonline.com:9030/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/a-haber-radyo.png" group-title="RADYO KANALLARI  | TV",A HABER RADYO | Haber-Spor
+http://trkvz-radyo.ercdn.net:8000/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/alem-fm.png" group-title="RADYO KANALLARI  | TV",Alem FM | Pop
+http://scturkmedya.radyotvonline.com/stream/80/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/joy-turk.png" group-title="RADYO KANALLARI  | TV",Joy Türk | Slow
+http://17773.live.streamtheworld.com:80/JOY_TURK_SC
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/joy-fm.png" group-title="RADYO KANALLARI  | TV",Joy FM | Yabancı
+http://17703.live.streamtheworld.com:80/JOY_FM_SC
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/super-fm.png" group-title="RADYO KANALLARI  | TV",Süper FM | Pop
+https://17703.live.streamtheworld.com/SUPER_FM_SC?type=.mp3
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/metro-fm.png" group-title="RADYO KANALLARI  | TV",Metro FM | Yabancı
+http://17733.live.streamtheworld.com:80/METRO_FM_SC
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------İZMIR RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?izmir
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-donusum.jpg" group-title="RADYO KANALLARI  | TV",Radyo Dönüşüm | Karışık
+http://89.252.129.203:7684/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-pause.png" group-title="RADYO KANALLARI  | TV",Radyo Pause | Pop
+http://live5.radyotvonline.com:8010/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-35.png" group-title="RADYO KANALLARI  | TV",Radyo 35 | Pop
+http://stream01.radyo35.com.tr/radyo35
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/sky-radyo.png" group-title="RADYO KANALLARI  | TV",Sky Radyo | Pop
+http://skyradyo.org:8300/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-romantik-turk.jpg" group-title="RADYO KANALLARI  | TV",Radyo Romantik Türk | Pop
+http://radyo.yayin.com.tr:6042/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/odemis-radyo-remix.png" group-title="RADYO KANALLARI  | TV",Ödemiş Radyo Remix | Pop
+http://radyoremix.canliyayinda.com:8304/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kordon-fm.png" group-title="RADYO KANALLARI  | TV",Kordon FM | Pop
+http://allergo.serverroom.us:8147/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/imbat-fm.png" group-title="RADYO KANALLARI  | TV",İmbat FM | Arabesk
+http://allergo.serverroom.us:8127/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/damarturk-fm.png" group-title="RADYO KANALLARI  | TV",Damartürk FM | Arabesk
+http://185.9.37.59:7966/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/can-radyo.png" group-title="RADYO KANALLARI  | TV",Can Radyo | Yöresel
+http://yayin1.yayindakiler.com:3124/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bati-radyo.png" group-title="RADYO KANALLARI  | TV",Bati Radyo | Yöresel
+http://live5.radyotvonline.com:8050/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-izmir-fm.png" group-title="RADYO KANALLARI  | TV",Radyo İzmir FM  | Slow
+http://usa4.fastcast4u.com:5414/mp3stream/;?type=mp3??hash=0.1920135512543366
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-kordelya.png" group-title="RADYO KANALLARI  | TV",Radyo Kordelya | Tsm
+http://allergo.serverroom.us:8137/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------KARS RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?kars
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kayafm.gif" group-title="RADYO KANALLARI  | TV",Kaya Kralım FM	99.3 | Arabesk Fantazi
+http://185.105.4.53:1194/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------KASTAMONU RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?kastamonu
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/cihan-fm.png" group-title="RADYO KANALLARI  | TV",Cihan FM | Slow
+http://185.207.39.91:9846/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-birinci.png" group-title="RADYO KANALLARI  | TV",Radyo Birinci | Slow
+http://46.165.233.174:3036/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kastamonu-radyo-37.png" group-title="RADYO KANALLARI  | TV",Kastamonu Radyo 37 | Karışık
+http://yayin1.yayindakiler.com:3192/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kastamonu-canturk-fm.png" group-title="RADYO KANALLARI  | TV",Cantürk FM | Karışık
+http://canturkfm.kesintisizyayin.com:9300/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------KAYSERI RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?kayseri
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-38-kent-fm.png" group-title="RADYO KANALLARI  | TV",Radyo 38 Kent FM | Yöresel
+http://yayin2.yayindakiler.com:4056/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kolej-fm.png" group-title="RADYO KANALLARI  | TV",Kolej FM | Pop
+http://yayin2.yayindakiler.com:4130/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-han.png" group-title="RADYO KANALLARI  | TV",Radyo Han | Tsm
+http://yayin2.yayindakiler.com:4128/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kay-radyo.png" group-title="RADYO KANALLARI  | TV",Kay Radyo | Pop
+http://yayin.yayindakiler.com:3054/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/arabesk-radyo-biz.png" group-title="RADYO KANALLARI  | TV",Arabesk Radyo Biz | Arabesk
+http://dinle.arabeskradyo.biz:7446/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------KIRKLARELI RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?kirklareli
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/serhat-fm.png" group-title="RADYO KANALLARI  | TV",Serhat FM | Pop
+http://sunucu2.radyolarburada.com:9150/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/luleburgaz-fm.png" group-title="RADYO KANALLARI  | TV",Lüleburgaz FM | Pop
+http://yayin.netyayin.net:3439/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/soylu-fm.jpg" group-title="RADYO KANALLARI  | TV",Soylu FM | Pop
+http://yayin2.yayindakiler.com:4034/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kirklareli-melodi-fm.jpg" group-title="RADYO KANALLARI  | TV",Kırklareli Melodi FM | Pop
+http://yayin2.yayindakiler.com:4164/;?type=mp3?.mp3
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------KIRŞEHIR RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?kirsehir
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kent_fm_kirsehir.gif" group-title="RADYO KANALLARI  | TV",Kent FM 101.5 | Arabesk Fantezi
+http://159.253.37.137:9966/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------KOCAELI RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?kocaeli
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-rest.jpg" group-title="RADYO KANALLARI  | TV",Radyo Rest | Arabesk
+http://95.173.161.133:7492/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/raks-fm.png" group-title="RADYO KANALLARI  | TV",Raks FM | Pop
+http://yayin.netyayin.net:2633/;?type=mp3?*.nsv
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-sirin.png" group-title="RADYO KANALLARI  | TV",Radyo Şirin | Pop
+http://live4.radyotvonline.com:9570/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-karamursel.png" group-title="RADYO KANALLARI  | TV",Radyo Karamürsel | Pop
+http://yayin1.yayindakiler.com:3052/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mesaj-fm.png" group-title="RADYO KANALLARI  | TV",Mesaj FM | Dini
+http://yayin3.canlitv.com:8010/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kocaeli-radyo-nikomedya.png" group-title="RADYO KANALLARI  | TV",Radyo Nikomedya | Slow
+http://yayin.netyayin.net:2631/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kandira-bati-fm.png" group-title="RADYO KANALLARI  | TV",Kandıra Batı FM | Yöresel
+http://85.105.200.238:8000/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/anadolu-radyo.png" group-title="RADYO KANALLARI  | TV",Anadolu Radyo | Dini
+http://yayin3.canlitv.com:8050/;?type=mp3??type=http&nocache=1053
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mavi-radyo.png" group-title="RADYO KANALLARI  | TV",Mavi Radyo | Arabesk
+http://sunucu.radyodinle.com:8070/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------KONYA RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?konya
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-genclik.jpg" group-title="RADYO KANALLARI  | TV",Radyo Gençlik | Dini
+http://radyogenclik.com:9900/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/konya-net-fm.jpg" group-title="RADYO KANALLARI  | TV",Konya Net FM | Pop
+http://yayin2.yayindakiler.com:4032/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/esas-radyo.png" group-title="RADYO KANALLARI  | TV",Esas Radyo | Pop
+http://yayin.turkhosted.com:6034/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ulku-fm.png" group-title="RADYO KANALLARI  | TV",Ülkü FM | Yöresel
+http://yayin.yayindakiler.com:4112/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/seydisehir-fm.png" group-title="RADYO KANALLARI  | TV",Seydişehir FM | Arabesk
+http://radyo.yayin.com.tr:5894/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/tiryaki-fm.png" group-title="RADYO KANALLARI  | TV",Tiryaki FM | Arabesk
+http://yayin.turkhosted.com:6056/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/konya-fm.png" group-title="RADYO KANALLARI  | TV",Konya FM | Dini
+http://212.175.65.102:8001/live?nocache=16329128
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ilgin-fm.png" group-title="RADYO KANALLARI  | TV",Ilgın FM | Pop
+http://95.173.184.17:9942/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/gencturk-radyo.png" group-title="RADYO KANALLARI  | TV",Gençtürk Radyo | Tsm
+http://yayin1.yayindakiler.com:3146/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/derya-fm.png" group-title="RADYO KANALLARI  | TV",Derya Fm | Arabesk
+http://yayin.turkhosted.com:6032/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/beysehir-gol-fm.png" group-title="RADYO KANALLARI  | TV",Beyşehir Göl FM | Slow
+http://radyoazelya.radyotvyayini.com:9054/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/bey-fm.png" group-title="RADYO KANALLARI  | TV",Bey FM | Pop
+http://45.32.154.169:9304/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/aksehir-dogan-fm.jpg" group-title="RADYO KANALLARI  | TV",Akşehir Doğan FM | Pop
+http://yayin.turkhosted.com:6046/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ak-mega-radyo.png" group-title="RADYO KANALLARI  | TV",Ak Mega Radyo | Arabesk
+http://yayin1.canliyayin.org:7078/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------KÜTAHYA RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?kutahya
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-dumlupinar.png" group-title="RADYO KANALLARI  | TV",Radyo Dumlupınar | Pop
+http://95.173.161.131:9856/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-active.jpg" group-title="RADYO KANALLARI  | TV",Radyo Active | Pop
+http://yayin1.yayindakiler.com:3164/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/alternatif-radyo.png" group-title="RADYO KANALLARI  | TV",Alternatif Radyo | Karışık
+http://alternatifradyo.radyotvyayini.com:9150/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------MALATYA RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?malatya
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-44.jpg" group-title="RADYO KANALLARI  | TV",Radyo 44 | Karışık
+http://radyo44.canliyayinda.com/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/caglar-fm.png" group-title="RADYO KANALLARI  | TV",Çağlar FM | Yöresel
+http://95.9.6.87:8788/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------MANISA RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?manisa
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-ekol.png" group-title="RADYO KANALLARI  | TV",Radyo Ekol | Pop
+http://94.23.144.18:9966/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/soma-fm.png" group-title="RADYO KANALLARI  | TV",Soma FM | Pop
+http://80.93.220.26:1960/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-hiras.jpg" group-title="RADYO KANALLARI  | TV",Radyo Hiraş | Pop
+http://yayin.radyohiras.com:9080/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/manisa-imaj-fm.png" group-title="RADYO KANALLARI  | TV",Manisa İmaj FM | Pop
+http://sunucu.radyodinle.com:9797/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ege-fm.png" group-title="RADYO KANALLARI  | TV",Ege FM | Arabesk
+http://sunucu.radyodinle.com:2024/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-metronom.png" group-title="RADYO KANALLARI  | TV",Radyo Metronom | Pop
+http://radyo.performans.net:9360/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------KAHRAMANMARAŞ RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?kahramanmaras
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/sultan-fm.png" group-title="RADYO KANALLARI  | TV",Sultan FM | Karışık
+http://yayin.turkhosted.com:4949/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/afsin-fm.png" group-title="RADYO KANALLARI  | TV",Afşin FM | Karışık
+http://dinle.afsinradyo.com:4646/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------MARDIN RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?mardin
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/mezopotamya-radyo.jpg" group-title="RADYO KANALLARI  | TV",Mezopotamya Radyo | Yöresel
+http://37.59.205.232:9404/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/rengin-fm.jpg" group-title="RADYO KANALLARI  | TV",Rengin Fm | Yöresel
+http://yayin3.canlitv.com:7075/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kiziltepe-radyo-emek.png" group-title="RADYO KANALLARI  | TV",Kızıltepe Radyo Emek | Karışık
+http://emekradyo.canliyayindinle.com:8585/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------MUĞLA RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?mugla
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/datca-onair.jpg" group-title="RADYO KANALLARI  | TV",Datça OnAir | Rock
+https://onlineradiobox.com/json/tr/datcaonair/play?platform=web
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ortaca-fm.png" group-title="RADYO KANALLARI  | TV",Ortaca FM | Karışık
+http://live.radyotvonline.com:9100/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ornek-radyo.png" group-title="RADYO KANALLARI  | TV",Örnek Radyo | Karışık
+http://yayin.yayindakiler.com:3006/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-tech.jpg" group-title="RADYO KANALLARI  | TV",Radyo Tech | Pop
+http://milbassan.com:8000/radyotech.ogg
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/dalaman-sahil-fm.png" group-title="RADYO KANALLARI  | TV",Dalaman Sahil FM | Pop
+http://dalamansahilfm.com:5252/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-halikarnas.png" group-title="RADYO KANALLARI  | TV",Radyo Halikarnas  | Slow
+http://78.186.65.14:9000/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/eko-fm.png" group-title="RADYO KANALLARI  | TV",Eko FM | Yabancı
+http://78.186.65.14:9002/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------MUŞ RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?mus
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-49.jpg" group-title="RADYO KANALLARI  | TV",Radyo 49 | Pop
+http://sunucu.radyodinle.com:8850/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------NEVŞEHIR RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?nevsehir
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/urgup-fm.png" group-title="RADYO KANALLARI  | TV",Ürgüp FM | Pop
+http://31.192.215.204:9956/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------NIĞDE RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?nigde
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/umut_fm_nigde.gif" group-title="RADYO KANALLARI  | TV",Umut FM 98.0 | Dini Radyolar
+http://yayin2.yayindakiler.com:4172/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/nigde_tempofm.gif" group-title="RADYO KANALLARI  | TV",Tempo FM	104.0 | Karışık Müzik
+http://yayin2.yayindakiler.com:4172/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------ORDU RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?ordu
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/melodi-fm.png" group-title="RADYO KANALLARI  | TV",Melodi FM | Pop
+http://yayin3.canlitv.com:5020/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-enerji.png" group-title="RADYO KANALLARI  | TV",Radyo Enerji | Pop
+http://yayin1.yayindakiler.com:3166/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ordu-fm.png" group-title="RADYO KANALLARI  | TV",Ordu FM | Slow
+http://78.129.187.73/stream.mp3?ipport=78.129.187.73_33489
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------RIZE RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?rize
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/slow-karadeniz-fm.png" group-title="RADYO KANALLARI  | TV",Slow Karadeniz FM | Slow
+http://dinle.slowkaradenizfm.com:9578/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-gelisim.jpg" group-title="RADYO KANALLARI  | TV",Radyo Gelişim | Karadeniz
+http://yayin.yayindakiler.com:4008/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------SAKARYA RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?sakarya
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/sakarya-radyo-net.png" group-title="RADYO KANALLARI  | TV",Sakarya Radyo Net | Pop
+http://dinle.radyonet.net:9990/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/kemence-fm.png" group-title="RADYO KANALLARI  | TV",Kemençe FM | Karışık
+http://dinle.kemencefm.com:6161/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/hur-fm.jpg" group-title="RADYO KANALLARI  | TV",Hür FM | Pop
+http://radyo.fikirsahipleri.com:9952/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------SAMSUN RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?samsun
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-moda-samsun.png" group-title="RADYO KANALLARI  | TV",Radyo Moda Samsun | Pop
+http://yayin.radyomoda.com.tr/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/samsun-radyo-tutku.png" group-title="RADYO KANALLARI  | TV",Samsun Radyo Tutku | Pop
+http://yayin2.yayindakiler.com:4038/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/samsun-radyo-kulup.jpg" group-title="RADYO KANALLARI  | TV",Samsun Radyo Kulüp | Pop
+http://yayin.yayindakiler.com:4086/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/hasret-fm.png" group-title="RADYO KANALLARI  | TV",Hasret FM | Arabesk
+http://46.165.233.175:4210/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/fistik-fm.png" group-title="RADYO KANALLARI  | TV",Fıstık FM | Arabesk
+http://onlinedinle.com:5555/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------SIIRT RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?siirt
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/siirt-fm.png" group-title="RADYO KANALLARI  | TV",Siirt FM | Yöresel
+http://yayin2.yayindakiler.com:4226/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------SINOP RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?sinop
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/sinop-ezgi-fm.png" group-title="RADYO KANALLARI  | TV",Ezgi FM | Arabesk
+http://yayin.yayindakiler.com:3044/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------SIVAS RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?sivas
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/zara-fm.png" group-title="RADYO KANALLARI  | TV",Zara FM | Karışık
+http://sunucu.radyodinle.com:8150/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/sivas-fm.png" group-title="RADYO KANALLARI  | TV",Sivas FM | Yöresel
+http://yayin1.canliyayin.org:8180/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------TEKIRDAĞ RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?tekirdag
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/tekirdag-yildiz-fm.png" group-title="RADYO KANALLARI  | TV",Tekirdağ Yıldız FM | Yöresel
+http://51.77.72.72:5940/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/tekirdag-radyo-seker.png" group-title="RADYO KANALLARI  | TV",Tekirdağ Radyo Şeker | Pop
+http://yayin.turkhosted.com:6052/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-haber.jpg" group-title="RADYO KANALLARI  | TV",Radyo Haber | Haber-Spor
+http://yayin2.yayindakiler.com:4118/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-can.png" group-title="RADYO KANALLARI  | TV",Radyo Can | Pop
+http://yayin1.yayindakiler.com:3124
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/corlu-tempo-fm.png" group-title="RADYO KANALLARI  | TV",Tempo FM | Pop
+http://sr1.netmedya.org:443/tempofm?ver=956274
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------TOKAT RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?tokat
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/tokat-yore-fm.jpg" group-title="RADYO KANALLARI  | TV",Tokat Yöre FM | Karışık
+http://yayin.yayindakiler.com:4082/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/tokat-ozlem-fm.png" group-title="RADYO KANALLARI  | TV",Tokat Özlem FM | Yöresel
+http://yayin.turkiletisim.com.tr:1080/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------TRABZON RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?trabzon
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/trabzon-radyo.png" group-title="RADYO KANALLARI  | TV",Trabzon Radyo | Karışık
+http://yayin3.canlitv.com:5040/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/trabzon-kuzey-radyo.png" group-title="RADYO KANALLARI  | TV",Trabzon Kuzey Radyo | Pop
+http://yayin1.yayindakiler.com:3028/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-trabzon.png" group-title="RADYO KANALLARI  | TV",Radyo Trabzon | Pop
+http://yayin3.canlitv.com:5040/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-bordo-mavi.jpg" group-title="RADYO KANALLARI  | TV",Radyo Bordo Mavi | Karadeniz
+http://yayin1.yayindakiler.com:3190/;?type=mp3?&type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------TUNCELI RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?tunceli
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/tunceli-baris-fm.png" group-title="RADYO KANALLARI  | TV",Tunceli Barış FM | Yöresel
+http://sunucu.radyodinle.com:8510/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-munzur.jpg" group-title="RADYO KANALLARI  | TV",Radyo Munzur | Yöresel
+http://198.7.59.28:8146/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------ŞANLIURFA RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?sanliurfa
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-mega.png" group-title="RADYO KANALLARI  | TV",Radyo Mega | Dini
+http://46.165.233.174:3106/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-medya.jpg" group-title="RADYO KANALLARI  | TV",Radyo Medya | Yöresel
+http://yayin.yayindakiler.com:4016/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------UŞAK RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?usak
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/banaz-dost-fm.jpg" group-title="RADYO KANALLARI  | TV",Banaz Dost FM | Karışık
+http://159.253.39.180:9968/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------VAN RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?van
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/van-fm.png" group-title="RADYO KANALLARI  | TV",Van FM | Karışık
+http://yayin2.yayindakiler.com:4040/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-tutku.png" group-title="RADYO KANALLARI  | TV",Radyo Tutku | Pop
+http://sunucu.radyodinle.com:4999/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------YOZGAT RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?yozgat
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/oksijen_radyo_yozgat.gif" group-title="RADYO KANALLARI  | TV",Oksijen Radyo 90.7 | Karışık Müzik
+http://fm-66.canliyayinda.com:9020/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/sorgun_fm.gif" group-title="RADYO KANALLARI  | TV",Sorgun FM	92.5 | Karışık Müzik
+http://radyovetv.com:8001/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/yozgat_super_radyo.gif" group-title="RADYO KANALLARI  | TV",Yozgat FM 96.7 | Karışık Müzik
+http://sunucu.radyodinle.com:5959/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/oguz_fm_yozgat.gif" group-title="RADYO KANALLARI  | TV",Oğuz FM	99.9 | 	Türkü Radyoları
+http://radyo.yayin.com.tr:5892/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------ZONGULDAK RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?zonguldak
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-tek.png" group-title="RADYO KANALLARI  | TV",Radyo Tek | Pop
+http://94.102.2.199:9974/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/zonguldak-radyo-damla.png" group-title="RADYO KANALLARI  | TV",Zonguldak Radyo Damla | Pop
+http://yayin.rtmp.org:8750/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/eregli-can-radyo.jpg" group-title="RADYO KANALLARI  | TV",Ereğli Can Radyo | Pop
+http://51.255.7.120:9988/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/demokrat-fm.png" group-title="RADYO KANALLARI  | TV",Demokrat FM | Pop
+http://yayin1.yayindakiler.com:3122/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/degisim-radyo.png" group-title="RADYO KANALLARI  | TV",Değişim Radyo | Slow
+http://yayin.yayindakiler.com:3120/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------AKSARAY RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?aksaray
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/aksaray-fm.png" group-title="RADYO KANALLARI  | TV",Aksaray FM | Pop
+http://yayin.yayindakiler.com:4010/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/aksaray-ar-fm.png" group-title="RADYO KANALLARI  | TV",Aksaray Ar FM | Yöresel
+http://46.165.233.175:4036/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------KARAMAN RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?karaman
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/karaman-genc-fm.png" group-title="RADYO KANALLARI  | TV",Karaman Genç FM | Dini
+http://yayin1.canliyayin.org:7048/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------KIRIKKALE RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?kirikkale
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/keskin-fm.png" group-title="RADYO KANALLARI  | TV",Keskin FM | Yöresel
+http://yayin1.canliyayin.org:8286/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------BATMAN RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?batman
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/batman-fm.png" group-title="RADYO KANALLARI  | TV",Batman FM | Yöresel
+http://yayin1.yayindakiler.com:3010/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------BARTIN RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?bartin
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/74-bartin-fm.png" group-title="RADYO KANALLARI  | TV",74 Bartın FM | Arabesk
+http://95.173.162.188:9824/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------ARDAHAN RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?ardahan
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/ardahan-fm.png" group-title="RADYO KANALLARI  | TV",Ardahan FM | Karışık
+http://95.173.161.131:9788/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------IĞDIR RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?igdir
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/igdir-fm.png" group-title="RADYO KANALLARI  | TV",Iğdır FM | Yöresel
+http://yayin2.yayindakiler.com:4158/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------YALOVA RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?yalova
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/gozde-fm.png" group-title="RADYO KANALLARI  | TV",Gözde FM | Pop
+http://gozdefm.canliyayinda.com:7700/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------OSMANIYE RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?osmaniye
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-yakamoz.jpg" group-title="RADYO KANALLARI  | TV",Radyo Yakamoz | Karışık
+http://live4.radyotvonline.com:6570/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/osmaniye-renk-fm.png" group-title="RADYO KANALLARI  | TV",Osmaniye Renk FM | Yöresel
+http://yayin1.yayindakiler.com:3158/;?type=mp3?
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-80.png" group-title="RADYO KANALLARI  | TV",Radyo 80 | Karışık
+http://sunucu2.radyolarburada.com:5033/stream
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/becer.png" group-title="RADYO KANALLARI  | TV",----------DÜZCE RADYO KANALLARI----------
+https://www.yilmaztv.com/yilmaztvspot.mp4?duzce
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/radyo-81.png" group-title="RADYO KANALLARI  | TV",Radyo 81 | Pop
+http://radyo.radyo81.com:3030/;?type=mp3?
+
+#EXTINF:-123 tvg-logo="https://www.yilmaztv.com/logo/radyo/duzce-kent-fm.png" group-title="RADYO KANALLARI  | TV",Düzce Kent FM | Slow
+http://duzcekentfm.canliyayinda.com:8012/;?type=mp3?
+

@@ -1,0 +1,340 @@
+#EXTM3U #RUSSIAN FEDERATION,  KANALLAR İÇERİR | TV | TV #
+
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",12 канал (Омск)
+http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",31 канал (Челябинск)
+http://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="http://online-red.com/images/tv/86.png" group-title="RUSSIAN LOCAL TV",86 канал (Сургут),Телеканал 86 (Сургут)
+https://sitv.ru/hls/s861024.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",ACB TV
+http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://i.imgur.com/rxwTjuT.jpg" group-title="RUSSIAN FEDERATION TV",BST TV Bashkirskoe Sputnikovoe TV,RU | BST TV Bashkirskoe Sputnikovoe TV
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Bmecte Po HD
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://i.imgur.com/GGLbJIi.jpg" group-title="RUSSIAN FEDERATION TV",Brodilo TV,Brodilo.TV,RU | Brodilo TV
+http://brodilo.tv/channel.php
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Djing Hedonist HD
+https://www.djing.com/tv/s-28634-05-hedonist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Djing Hits
+https://www.djing.com/tv/i-28634-04.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Djing TV
+https://www.djing.com/tv/28638-04.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Djing Wild EDM HD
+https://www.djing.com/tv/s-28634-05-wild-edm.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",FTV Teens
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",First Music (Opt-1)
+http://rtmp.one.by:2300/
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",First Music (Opt-2)
+http://rtmp.one.by:1300/
+#EXTINF:-1 tvg-country="AT;RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://i.imgur.com/AxgNvdp.png" group-title="RUSSIAN FEDERATION TV",Kurai TV,RU | Kurai TV,Курай
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://iptvx.one/icn/luxury.png" group-title="RUSSIAN FEDERATION TV",Luxury,Luxury HD
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Nano,Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",One.by 4K
+http://rtmp.one.by:1499
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Prosveshenie
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://i.imgur.com/D5M4Gjr.png" group-title="RUSSIAN FEDERATION TV",RBK,RU | RBK
+http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://i.imgur.com/thfF7IJ.jpg" group-title="RUSSIAN FEDERATION TV",RU | Salyam,Salyam
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="RUSSIAN FEDERATION TV",RU | TV BRICS China,TV BRICS China
+https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="RUSSIAN FEDERATION TV",RU | TV BRICS English,TV BRICS English
+https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://i.imgur.com/ySedtZl.png" group-title="RUSSIAN FEDERATION TV",RU | Tamir TV,Tamir TV
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1 tvg-country="RU;UA" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="RUSSIAN FEDERATION SPOR TV",Red Bull TV,Red Bull TV HD,Red Bull TV SD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Sony Channel
+http://cineapp.org:8000/Fernando/Fernando/12572
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",TNT_EXCLUSIV,ТНТ Exclusive (Молдова)
+http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",TnBnkom FHD
+http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",UGRA Travel (Сургут)
+http://rt-ural-sur-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",АРИС 24
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Аист (Иркутск)
+http://rt-sib-irk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION SPOR TV",Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION SPOR TV",Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION SPOR TV",Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN LOCAL TV",Астрахань.Ru TV
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN LOCAL TV",Астрахань.Ru TV
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN LOCAL TV",Астрахань.Ru TV
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://gtrk.tv/sites/default/files/channels/mono/mono-b24.png" group-title="RUSSIAN LOCAL TV",Башкортостан 24
+http://live.gtrk.tv/720/b24-720.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Башкортостан 24 HD
+http://live.gtrk.tv/hls/b24-hls.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN LOCAL TV",Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Брянская губерния
+http://rt-ct-bryansk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN LOCAL TV",Ветта 24 (Пермь)
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Волга (Н. Новгород)
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_VOLGA/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Восток 24
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Вот ТВ HD
+http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Городской телеканал (Ярославль)
+http://www.gtk.tv/hls/gtyar.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://www.guberniatv.ru/img/logo.png" group-title="RUSSIAN FEDERATION TV",Губерния (Самара)
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN LOCAL TV",Губерния 33 (Владимир)
+http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Губерния 33 HD
+http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Губерния Самарская
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",ДИАЛОГИ О РЫБАЛКЕ
+http://strm.yandex.ru/kal/dialogi/dialogi0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Дагестан
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Дзержинск ТВ (Дзержинск)
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Домашний
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Дон 24
+http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Дон 24
+http://rt-sth-rd-htlive-lb.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN LOCAL TV",Евразия (Орск)
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="http://eurasia.orsk.ru/images/bg.jpg" group-title="RUSSIAN LOCAL TV",Евразия (Орск)
+http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Енисей (Красноярск)
+http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",К16 (Саров)
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="http://kab.tv/static/images/kab_tv_eng.gif" group-title="RUSSIAN FEDERATION TV",Каббала ТВ
+http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Киносвидание
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Конный Мир
+http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Курай (Уфа)
+http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://iptvx.one/icn/ldpr-tv.png" group-title="RUSSIAN FEDERATION TV",ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://iptvx.one/icn/ldpr-tv.png" group-title="RUSSIAN FEDERATION TV",ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN LOCAL TV",Липецкое время
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="http://xn--b1ats.xn--80asehdb/img/logo.png" group-title="RUSSIAN LOCAL TV",МТВ (Волгоград)
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Матур ТВ HD
+http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Миллет
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Министерство идей
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Министерство идей HD
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_ru.jpg" group-title="RUSSIAN FEDERATION TV",Мир,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://i.imgur.com/CrFWXTD.png" group-title="RUSSIAN FEDERATION TV",Мир (+4)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" group-title="RUSSIAN FEDERATION TV",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Мир Premium
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="http://mirbelogorya.ru/images/stories/news/2014/08/мир/0белогорья_логотип.jpg" group-title="RUSSIAN FEDERATION TV",Мир Белагорья
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="http://mirbelogorya.ru/images/stories/news/2014/08/мир%20белогорья_логотип.jpg" group-title="RUSSIAN FEDERATION TV",Мир Белогорья,Мир Белогорья (Белгород)
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Москва Доверие,Москва. Доверие
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Московский Образовательный
+http://retc.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="http://online-red.com/images/tv/mosobr.png" group-title="RUSSIAN FEDERATION TV",Московский образовательный
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Муз союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",НВК Саха
+http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",НВК Саха
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",ННТВ (Нижний Новгород)
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_VLG_NN_NNTV/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",НСК 49 (Новосибирск)
+http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",НТВ
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",НТВ (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",НТВ (+2)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",НТМ
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="http://saransk-tv.ru/assets/images/slider/170321-pic-01.jpg" group-title="RUSSIAN LOCAL TV",НТМ (Мордовия),НТМ HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://hopetv.ru/wp-content/themes/hope.ua/public/img/header-hopeLogo.png" group-title="RUSSIAN FEDERATION TV",Надежда
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Надежда
+http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Наше Крутое HD
+http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/915/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Наши города (Когалым)
+http://rt-ural-sur-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" group-title="RUSSIAN FEDERATION TV",Небеса ТВ7
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://nikatv.ru/public/img/logo2.png" group-title="RUSSIAN FEDERATION TV",Ника TV,Ника ТВ
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Ника ТВ
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Новое ТВ
+http://serv25.vintera.tv:8081/novoetv/nov_tv/chunks.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Новороссия ТВ HD
+http://ott.inmart.tv:8081/19/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Новый век
+http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Новый век
+http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",ОТВ HD (Челябинск)
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_CHEL/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",ОТС (Новосибирск)
+http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",ОТС HD
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Оплoт 2 HD
+http://ott.inmart.tv:8081/17/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Оплoт HD
+http://ott.inmart.tv:8081/54/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Первый Тульский
+http://rt-ct-tula-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Первый Тульский HD
+http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Первый канал
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Первый канал (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Первый канал (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Первый канал (+8)
+http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Первый областной (Орел)
+http://rt-ct-orl-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Первый республиканский
+http://ott.inmart.tv:8081/18/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Продвижение (Омск)
+http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_PRODVIZHENIE/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Просвещение
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="http://145.239.78.42/logos/rbk.png" group-title="RUSSIAN FEDERATION TV",РБК
+http://e6.online.video.rbc.ru/online2/rbctv_480p/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rbk_tv_ru.jpg" group-title="RUSSIAN FEDERATION TV",РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="http://only-tv.org/images/rbk.png" group-title="RUSSIAN FEDERATION TV",РБК
+http://online-video.rbc.ru/online/rbctv_480p/index.m3u8?e=e8&t=IbzcGc
+#EXTINF:-1 tvg-country="RU" tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="RUSSIAN FEDERATION TV",РБК
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rbk_tv_ru.jpg" group-title="RUSSIAN FEDERATION TV",РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",РЕН ТВ HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",РТС (Хакасия)
+http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Радио Говорит Москва
+http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png" group-title="RUSSIAN FEDERATION TV",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Ратник
+http://online-video.rbc.ru/online/rbctv.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Рен ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION SPOR TV",Репортер 73 (Ульяновск)
+http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Рифей ТВ
+http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Россия 1 (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Россия 1 (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Россия 1 (-1)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Россия 1 +1
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Россия 1 +3
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Россия 1 +8
+http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://sitv.ru/img/stv-news/111111/S1_logo.jpg" group-title="RUSSIAN LOCAL TV",С1 (Сургут)
+https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",СТС Прима
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Саратов 24
+http://rt-vlg-saratov-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_VLG_SARATOV_SARATOV24/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Саха (Якутск)
+http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Свое ТВ HD
+http://rt-sth-stavr-htlive-lb.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://tv-soyuz.ru/static/img/logo.png" group-title="RUSSIAN FEDERATION TV",Союз
+http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Супер
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Супер (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Супер (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Супер (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",ТВ-ИН HD
+http://a3569457554-rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",ТВ3
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",ТВЦ (Международный)
+http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Тагил ТВ
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Тверской Проспект – Регион,Тверской Проспект-Регион
+http://rt-ct-tver-htlive-lb.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Тивиком HD (+5)
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://www.3angels.ru/assets/img/themes/logo-menu.png" group-title="RUSSIAN FEDERATION TV",Три Ангела
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Хамдан (Элиста)
+http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://static.tildacdn.com/tild6230-3662-4537-a334-363564306535/Untitled-4.png" group-title="RUSSIAN FEDERATION TV",Хузур ТВ
+http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Хузур ТВ (Татарстан)
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Чаваш Ен (Чебоксары)
+http://rt-vlg-chr-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_NATIONALTV/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/shanson_tv.jpg" group-title="RUSSIAN FEDERATION TV",Шансон-ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="http://tv41.ru/images/00.png" group-title="RUSSIAN LOCAL TV",Щелковское ТВ
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN LOCAL TV",Эхо TV (Рязань),Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ugra_tv.jpg" group-title="RUSSIAN LOCAL TV",Югра
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",Ямал Регион
+http://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8?version=2
+#EXTINF:-1 tvg-country="RU" tvg-logo="https://m.yilmaztv.cc/logo/ru.png" group-title="RUSSIAN FEDERATION TV",радио Хит ТВ
+http://hithd.camsh.orsk.ru/hls/hit.m3u8

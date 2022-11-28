@@ -1,0 +1,194 @@
+#EXTM3U #AZERBAYCAN,  KANALLAR İÇERİR | TV | TV #
+
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",5 канал
+http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",A Haber
+http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",A Spor
+http://mfe.cliptv.az/dash/A_Spor_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",AKILLI TV
+http://mfe.cliptv.az/dash/AKILLI_TV_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",AL ZAHRA TV
+http://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",ATV
+http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",ATV
+http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="AZERBAYCAN yilmaztv.ru",ATV 1
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="AZERBAYCAN yilmaztv.ru",ATV 1
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="AZERBAYCAN yilmaztv.ru",ATV 2
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="AZERBAYCAN yilmaztv.ru",ATV 4
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Amedia 1
+http://mfe.cliptv.az/dash/A1_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Amedia Hit
+http://mfe.cliptv.az/dash/A_Media_Hit_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Ani
+http://mfe.cliptv.az/dash/ANITV_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Arb
+http://mfe.cliptv.az/dash/ARB_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Arb 24
+http://mfe.cliptv.az/dash/ARB_24_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Arb Günəş
+http://mfe.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",AzTV
+http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",BBC World News
+http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",BRIDGE TV Dance
+http://mfe.cliptv.az/dash/Bridge_TV_Dance_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Bloomberg
+http://mfe.cliptv.az/dash/Blomberg_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",CBC Azerbaijan
+http://mfe.cliptv.az/dash/CBC_Azerbaijan_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN SPOR yilmaztv.ru",CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",DMAX
+http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Da Vinci Learning
+http://mfe.cliptv.az/dash/DaVinci_Learning_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Dalğa TV
+http://mfe.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Dunya TV
+http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",EL TV
+http://85.132.53.162:1935/live/eltv/chunklist.m3u8
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",ELTV
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",HABERTÜRK
+http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Ictimai
+http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Idman
+http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Investigation Discovery
+http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Kanal 7
+http://mfe.cliptv.az/dash/Kanal_7_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Kanal D
+http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://i.imgur.com/b6i8byT.png" group-title="AZERBAYCAN yilmaztv.ru",Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Minika Cocuk
+http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Minika Go
+http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",MuzTV
+http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Muğan TV (1080p) [Not 24/7]
+http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Mədəniyyət
+http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",NTV
+http://mfe.cliptv.az/dash/NTV_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Nat Geo Wild
+http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",National Geographic Channel
+http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",POWERTURK
+http://mfe.cliptv.az/dash/POWERTURK_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Real TV
+http://mfe.cliptv.az/dash/Real_TV_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Show
+http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Sony Sci-Fi
+http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Space
+http://mfe.cliptv.az/dash/Space_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Star
+http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",TMB TV
+http://mfe.cliptv.az/dash/TMB_TV_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",TRT 1
+http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",TRT Belgesel
+http://mfe.cliptv.az/dash/TRT_Belgesel_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",TRT Cocuk
+http://mfe.cliptv.az/dash/TRT_Cocuk_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",TRT Haber
+http://mfe.cliptv.az/dash/TRT_Haber_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",TRT World
+http://mfe.cliptv.az/dash/TRT_World_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",TV 8
+http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",TV 8.5
+http://mfe.cliptv.az/dash/TV_8_5_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",TV1000
+http://mfe.cliptv.az/dash/TV1000_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Teve 2
+http://mfe.cliptv.az/dash/TV_2_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Tiji
+http://mfe.cliptv.az/dash/Tiji_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",VH1 EUROPE
+http://mfe.cliptv.az/dash/VH1_EUROPE_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Xəzər
+http://mfe.cliptv.az/dash/Xezer_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",t.me/tvlab MGM
+http://mfe.cliptv.az/dash/MGM_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Авто Плюс
+http://mfe.cliptv.az/dash/Avto_Plus_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Детский Мир
+http://mfe.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Дом Кино Премиум
+http://mfe.cliptv.az/dash/Dom_Kino_Premium_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Домашний
+http://mfe.cliptv.az/dash/Domashniy_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Еврокино
+http://mfe.cliptv.az/dash/Evrokino_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Евроновости
+http://mfe.cliptv.az/dash/Evronovosti_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Европа Плюс
+http://mfe.cliptv.az/dash/Evropa_Plus_TV_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Жара
+http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Загородная жизнь
+http://mfe.cliptv.az/dash/Zagorodnaya_Jizn_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Индийское Кино
+http://mfe.cliptv.az/dash/Indiyskoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",КИНОМИКС
+http://mfe.cliptv.az/dash/Kinomix_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",КИНОПРЕМЬЕРА
+http://mfe.cliptv.az/dash/Kinopremiera_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",КИНОСВИДАНИЕ
+http://mfe.cliptv.az/dash/Kinosvidaniye_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",КИНОСЕРИЯ
+http://mfe.cliptv.az/dash/Kinoseriya_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",КИНОХИТ
+http://mfe.cliptv.az/dash/Kinohit_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Карусель
+http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Кинокомедия
+http://mfe.cliptv.az/dash/Kinokomediya_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Кухня ТВ
+http://mfe.cliptv.az/dash/Kuxnya_TV_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Любимое Кино
+http://mfe.cliptv.az/dash/Lyubimoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",МИР 24
+http://mfe.cliptv.az/dash/MIR24_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN SPOR yilmaztv.ru",Матч! Арена
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN SPOR yilmaztv.ru",Матч! Боец
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Мужское кино
+http://mfe.cliptv.az/dash/Mujskoye_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Мульт
+http://mfe.cliptv.az/dash/Mult_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",НАШЕ НОВОЕ КИНО
+http://mfe.cliptv.az/dash/Nashe_Novoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Ностальгия
+http://mfe.cliptv.az/dash/Nostalgiya_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Охота и Рыбалка
+http://mfe.cliptv.az/dash/Oxota_i_Ribalka_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Первый Канал
+http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",РОДНОЕ КИНО
+http://mfe.cliptv.az/dash/Rodnoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Россия Культура
+http://mfe.cliptv.az/dash/Rossiya_Kulturra_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",СТС love
+http://mfe.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-country="AZ" tvg-logo="https://m.yilmaztv.cc/logo/az.png" group-title="AZERBAYCAN yilmaztv.ru",Шансон
+http://mfe.cliptv.az/dash/Shanson_SD.ism/playlist.mpd
